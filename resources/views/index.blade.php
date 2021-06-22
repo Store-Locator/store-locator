@@ -166,13 +166,13 @@ Apple Watch Series 6</a></h4>
 
 <div class="container">
 <div class="row align-items-center">
-<div class="col-lg-8 col-md-6 col-12">
+<div class="col-lg-8 col-md-5 col-12">
 <div class="nav-inner">
 
 <div class="mega-category-menu">
 <span class="cat-button"><i class="lni lni-menu"></i>All Categories</span>
 <ul class="sub-category">
-<li><a href="product-grids.html">Electronics and Electrician
+<li><a href="product-grids.html" >Electronics and Electrician
 <!-- <i class="lni lni-chevron-right"></i> -->
 </a>
 <!-- <ul class="inner-sub-category">
@@ -188,11 +188,11 @@ Apple Watch Series 6</a></h4>
 <li><a href="product-grids.html">Cables & Adapters</a></li>
 </ul> -->
 </li>
-<li><a href="product-grids.html">Automobiles and Mechanics</a></li>
-<li><a href="product-grids.html">Grocery</a></li>
-<li><a href="product-grids.html">Hardware and Plumbing</a></li>
-<li><a href="product-grids.html">Pharmacy</a></li>
-<li><a href="product-grids.html">Furniture and Carpentry</a></li>
+<li><a  href="product-grids.html">Automobiles and Mechanics</a></li>
+<li><a  href="product-grids.html">Grocery</a></li>
+<li><a  href="product-grids.html">Hardware and Plumbing</a></li>
+<li><a  href="product-grids.html">Pharmacy</a></li>
+<li><a  href="product-grids.html">Furniture and Carpentry</a></li>
 <!-- <li><a href="product-grids.html">top 100 offer</a></li>
 <li><a href="product-grids.html">sunglass</a></li>
 <li><a href="product-grids.html">watch</a></li>
@@ -207,7 +207,7 @@ Apple Watch Series 6</a></h4>
 <li><a class="dropdown-item" href="#">Hardware and Plumbing</a></li> -->
 </ul>
 </div>
-
+<!-- Search Box -->
 <div class="col-lg-5 col-md-7 d-xs-none" style="margin-left: 20%;margin-top:1%;margin-bottom:1%;">
 
 <div class="main-menu-search">
@@ -224,6 +224,9 @@ Apple Watch Series 6</a></h4>
 </div>
 
 </div>
+
+<!-- End Search Box -->
+
 <nav class="navbar navbar-expand-lg">
 <button class="navbar-toggler mobile-menu-btn" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="toggler-icon"></span>
@@ -392,14 +395,14 @@ iPhone 12 Pro Max
 <div class="row">
 <div class="col-lg-4 col-md-6 col-12">
 
-<div class="single-category" style="border-color: black; ">
-<h3 class="heading">Electronics and Electrician</h3>
+<div class="single-category" style="border-color: black;background-color: black;">
+<h3 class="heading" style="color: white;">Electronics and Electrician</h3>
 <ul>
-<li><a href="product-grids.html">Store - 1</a></li>
-<li><a href="product-grids.html">Store - 2</a></li>
-<li><a href="product-grids.html">Store - 3</a></li>
-<li><a href="product-grids.html">Store - 4</a></li>
-<li><a href="product-grids.html">View All</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
+<li><a href="product-grids.html" style="color: white;">View All</a></li>
 </ul>
 <div class="images">
 <!-- <img src="{{asset('images/featured-categories/pic1.png')}}" alt="#"> -->
@@ -409,14 +412,14 @@ iPhone 12 Pro Max
 </div>
 <div class="col-lg-4 col-md-6 col-12">
 
-<div class="single-category" style="border-color: black; ">
-<h3 class="heading">Automobiles and Mechanics</h3>
+<div class="single-category" style="border-color: black;background-color: black; ">
+<h3 class="heading" style="color: white;">Automobiles and Mechanics</h3>
 <ul>
-<li><a href="product-grids.html">Store - 1</a></li>
-<li><a href="product-grids.html">Store - 2</a></li>
-<li><a href="product-grids.html">Store - 3</a></li>
-<li><a href="product-grids.html">Store - 4</a></li>
-<li><a href="product-grids.html">View All</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
+<li><a href="product-grids.html" style="color: white;">View All</a></li>
 </ul>
 <div class="images">
 <!-- <img src="{{asset('images/featured-categories/pic2.png')}}" alt="#"> -->
@@ -426,14 +429,14 @@ iPhone 12 Pro Max
 </div>
 <div class="col-lg-4 col-md-6 col-12">
 
-<div class="single-category" style="border-color: black; ">
-<h3 class="heading">Grocery</h3>
+<div class="single-category" style="border-color: black;background-color: black; ">
+<h3 class="heading" style="color: white;">Grocery</h3>
 <ul>
-<li><a href="product-grids.html">Store - 1</a></li>
-<li><a href="product-grids.html">Store - 2</a></li>
-<li><a href="product-grids.html">Store - 3</a></li>
-<li><a href="product-grids.html">Store - 4</a></li>
-<li><a href="product-grids.html">View All</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
+<li><a href="product-grids.html" style="color: white;">View All</a></li>
 </ul>
 <div class="images">
 <!-- <img src="{{asset('images/featured-categories/pic3.png')}}" alt="#"> -->
@@ -443,14 +446,14 @@ iPhone 12 Pro Max
 </div>
 <div class="col-lg-4 col-md-6 col-12">
 
-<div class="single-category" style="border-color: black; ">
-<h3 class="heading">Hardware and Plumbing</h3>
+<div class="single-category" style="border-color: black;background-color: black; ">
+<h3 class="heading" style="color: white;">Hardware and Plumbing</h3>
 <ul>
-<li><a href="product-grids.html">Store - 1</a></li>
-<li><a href="product-grids.html">Store - 2</a></li>
-<li><a href="product-grids.html">Store - 3</a></li>
-<li><a href="product-grids.html">Store - 4</a></li>
-<li><a href="product-grids.html">View All</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
+<li><a href="product-grids.html" style="color: white;">View All</a></li>
 </ul>
 <div class="images">
 <!-- <img src="{{asset('images/featured-categories/fetured-item-4.png')}}" alt="#"> -->
@@ -460,14 +463,14 @@ iPhone 12 Pro Max
 </div>
 <div class="col-lg-4 col-md-6 col-12" style="border-color: black; ">
 
-<div class="single-category" style="border-color: black;">
-<h3 class="heading">Pharmacy</h3>
+<div class="single-category" style="border-color: black;background-color: black; ">
+<h3 class="heading" style="color: white;">Pharmacy</h3>
 <ul>
-<li><a href="product-grids.html">Store - 1</a></li>
-<li><a href="product-grids.html">Store - 2</a></li>
-<li><a href="product-grids.html">Store - 3</a></li>
-<li><a href="product-grids.html">Store - 4</a></li>
-<li><a href="product-grids.html">View All</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
+<li><a href="product-grids.html" style="color: white;">View All</a></li>
 </ul>
 <div class="images">
 <!-- <img src="{{asset('images/featured-categories/fetured-item-5.png')}}" alt="#"> -->
@@ -477,14 +480,14 @@ iPhone 12 Pro Max
 </div>
 <div class="col-lg-4 col-md-6 col-12">
 
-<div class="single-category" style="border-color: black; ">
-<h3 class="heading">Furniture and Carpentry</h3>
+<div class="single-category" style="border-color: black;background-color: black; ">
+<h3 class="heading" style="color: white;">Furniture and Carpentry</h3>
 <ul>
-<li><a href="product-grids.html">Store - 1</a></li>
-<li><a href="product-grids.html">Store - 2</a></li>
-<li><a href="product-grids.html">Store - 3</a></li>
-<li><a href="product-grids.html">Store - 4</a></li>
-<li><a href="product-grids.html">View All</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
+<li><a href="product-grids.html" style="color: white;">View All</a></li>
 </ul>
 <div class="images">
 <!-- <img src="{{asset('images/featured-categories/fetured-item-6.png')}}" alt="#"> -->
