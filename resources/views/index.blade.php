@@ -172,7 +172,7 @@ Apple Watch Series 6</a></h4>
 <div class="mega-category-menu">
 <span class="cat-button"><i class="lni lni-menu"></i>All Categories</span>
 <ul class="sub-category">
-<li><a href="product-grids.html">Electronics 
+<li><a href="product-grids.html">Electronics and Electrician
 <!-- <i class="lni lni-chevron-right"></i> -->
 </a>
 <!-- <ul class="inner-sub-category">
@@ -188,9 +188,11 @@ Apple Watch Series 6</a></h4>
 <li><a href="product-grids.html">Cables & Adapters</a></li>
 </ul> -->
 </li>
-<li><a href="product-grids.html">Automobiles</a></li>
+<li><a href="product-grids.html">Automobiles and Mechanics</a></li>
 <li><a href="product-grids.html">Grocery</a></li>
 <li><a href="product-grids.html">Hardware and Plumbing</a></li>
+<li><a href="product-grids.html">Pharmacy</a></li>
+<li><a href="product-grids.html">Furniture and Carpentry</a></li>
 <!-- <li><a href="product-grids.html">top 100 offer</a></li>
 <li><a href="product-grids.html">sunglass</a></li>
 <li><a href="product-grids.html">watch</a></li>
@@ -206,11 +208,11 @@ Apple Watch Series 6</a></h4>
 </ul>
 </div>
 
-<div class="col-lg-5 col-md-7 d-xs-none" style="margin-left: 20%;">
+<div class="col-lg-5 col-md-7 d-xs-none" style="margin-left: 20%;margin-top:1%;margin-bottom:1%;">
 
 <div class="main-menu-search">
 
-<div class="navbar-search"">
+<div class="navbar-search">
 <div class="search-input">
 <input type="text" placeholder="Search" >
 </div>
@@ -228,9 +230,9 @@ Apple Watch Series 6</a></h4>
 <span class="toggler-icon"></span>
 <span class="toggler-icon"></span>
 </button>
-<div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
+<!-- <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
 <ul id="nav" class="navbar-nav ms-auto">
-<!-- <li class="nav-item">
+<li class="nav-item">
 <a href="index.html" class="active" aria-label="Toggle navigation">Home</a>
 </li> -->
 <!-- <li class="nav-item">
@@ -266,9 +268,9 @@ Sibebar</a></li>
 </li>
 <li class="nav-item">
 <a href="contact.html" aria-label="Toggle navigation">Contact Us</a>
-</li> -->
+</li> 
 </ul>
-</div> 
+</div>  -->
 </nav>
 
 </div>
@@ -383,110 +385,109 @@ iPhone 12 Pro Max
 <div class="col-12">
 <div class="section-title">
 <h2>Featured Categories</h2>
-<p>There are many variations of passages of Lorem Ipsum available, but the majority have
-suffered alteration in some form.</p>
+<p>There are many variations of bussiness and services near you.</p>
 </div>
 </div>
 </div>
 <div class="row">
 <div class="col-lg-4 col-md-6 col-12">
 
-<div class="single-category">
-<h3 class="heading">TV & Audios</h3>
+<div class="single-category" style="border-color: black; ">
+<h3 class="heading">Electronics and Electrician</h3>
 <ul>
-<li><a href="product-grids.html">Smart Television</a></li>
-<li><a href="product-grids.html">QLED TV</a></li>
-<li><a href="product-grids.html">Audios</a></li>
-<li><a href="product-grids.html">Headphones</a></li>
+<li><a href="product-grids.html">Store - 1</a></li>
+<li><a href="product-grids.html">Store - 2</a></li>
+<li><a href="product-grids.html">Store - 3</a></li>
+<li><a href="product-grids.html">Store - 4</a></li>
 <li><a href="product-grids.html">View All</a></li>
 </ul>
 <div class="images">
-<img src="{{asset('images/featured-categories/fetured-item-1.png')}}" alt="#">
+<!-- <img src="{{asset('images/featured-categories/pic1.png')}}" alt="#"> -->
 </div>
 </div>
 
 </div>
 <div class="col-lg-4 col-md-6 col-12">
 
-<div class="single-category">
-<h3 class="heading">Desktop & Laptop</h3>
+<div class="single-category" style="border-color: black; ">
+<h3 class="heading">Automobiles and Mechanics</h3>
 <ul>
-<li><a href="product-grids.html">Smart Television</a></li>
-<li><a href="product-grids.html">QLED TV</a></li>
-<li><a href="product-grids.html">Audios</a></li>
-<li><a href="product-grids.html">Headphones</a></li>
+<li><a href="product-grids.html">Store - 1</a></li>
+<li><a href="product-grids.html">Store - 2</a></li>
+<li><a href="product-grids.html">Store - 3</a></li>
+<li><a href="product-grids.html">Store - 4</a></li>
 <li><a href="product-grids.html">View All</a></li>
 </ul>
 <div class="images">
-<img src="{{asset('images/featured-categories/fetured-item-2.png')}}" alt="#">
+<!-- <img src="{{asset('images/featured-categories/pic2.png')}}" alt="#"> -->
 </div>
 </div>
 
 </div>
 <div class="col-lg-4 col-md-6 col-12">
 
-<div class="single-category">
-<h3 class="heading">Cctv Camera</h3>
+<div class="single-category" style="border-color: black; ">
+<h3 class="heading">Grocery</h3>
 <ul>
-<li><a href="product-grids.html">Smart Television</a></li>
-<li><a href="product-grids.html">QLED TV</a></li>
-<li><a href="product-grids.html">Audios</a></li>
-<li><a href="product-grids.html">Headphones</a></li>
+<li><a href="product-grids.html">Store - 1</a></li>
+<li><a href="product-grids.html">Store - 2</a></li>
+<li><a href="product-grids.html">Store - 3</a></li>
+<li><a href="product-grids.html">Store - 4</a></li>
 <li><a href="product-grids.html">View All</a></li>
 </ul>
 <div class="images">
-<img src="{{asset('images/featured-categories/fetured-item-3.png')}}" alt="#">
+<!-- <img src="{{asset('images/featured-categories/pic3.png')}}" alt="#"> -->
 </div>
 </div>
 
 </div>
 <div class="col-lg-4 col-md-6 col-12">
 
-<div class="single-category">
-<h3 class="heading">Dslr Camera</h3>
+<div class="single-category" style="border-color: black; ">
+<h3 class="heading">Hardware and Plumbing</h3>
 <ul>
-<li><a href="product-grids.html">Smart Television</a></li>
-<li><a href="product-grids.html">QLED TV</a></li>
-<li><a href="product-grids.html">Audios</a></li>
-<li><a href="product-grids.html">Headphones</a></li>
+<li><a href="product-grids.html">Store - 1</a></li>
+<li><a href="product-grids.html">Store - 2</a></li>
+<li><a href="product-grids.html">Store - 3</a></li>
+<li><a href="product-grids.html">Store - 4</a></li>
 <li><a href="product-grids.html">View All</a></li>
 </ul>
 <div class="images">
-<img src="{{asset('images/featured-categories/fetured-item-4.png')}}" alt="#">
+<!-- <img src="{{asset('images/featured-categories/fetured-item-4.png')}}" alt="#"> -->
+</div>
+</div>
+
+</div>
+<div class="col-lg-4 col-md-6 col-12" style="border-color: black; ">
+
+<div class="single-category" style="border-color: black;">
+<h3 class="heading">Pharmacy</h3>
+<ul>
+<li><a href="product-grids.html">Store - 1</a></li>
+<li><a href="product-grids.html">Store - 2</a></li>
+<li><a href="product-grids.html">Store - 3</a></li>
+<li><a href="product-grids.html">Store - 4</a></li>
+<li><a href="product-grids.html">View All</a></li>
+</ul>
+<div class="images">
+<!-- <img src="{{asset('images/featured-categories/fetured-item-5.png')}}" alt="#"> -->
 </div>
 </div>
 
 </div>
 <div class="col-lg-4 col-md-6 col-12">
 
-<div class="single-category">
-<h3 class="heading">Smart Phones</h3>
+<div class="single-category" style="border-color: black; ">
+<h3 class="heading">Furniture and Carpentry</h3>
 <ul>
-<li><a href="product-grids.html">Smart Television</a></li>
-<li><a href="product-grids.html">QLED TV</a></li>
-<li><a href="product-grids.html">Audios</a></li>
-<li><a href="product-grids.html">Headphones</a></li>
+<li><a href="product-grids.html">Store - 1</a></li>
+<li><a href="product-grids.html">Store - 2</a></li>
+<li><a href="product-grids.html">Store - 3</a></li>
+<li><a href="product-grids.html">Store - 4</a></li>
 <li><a href="product-grids.html">View All</a></li>
 </ul>
 <div class="images">
-<img src="{{asset('images/featured-categories/fetured-item-5.png')}}" alt="#">
-</div>
-</div>
-
-</div>
-<div class="col-lg-4 col-md-6 col-12">
-
-<div class="single-category">
-<h3 class="heading">Game Console</h3>
-<ul>
-<li><a href="product-grids.html">Smart Television</a></li>
-<li><a href="product-grids.html">QLED TV</a></li>
-<li><a href="product-grids.html">Audios</a></li>
-<li><a href="product-grids.html">Headphones</a></li>
-<li><a href="product-grids.html">View All</a></li>
-</ul>
-<div class="images">
-<img src="{{asset('images/featured-categories/fetured-item-6.png')}}" alt="#">
+<!-- <img src="{{asset('images/featured-categories/fetured-item-6.png')}}" alt="#"> -->
 </div>
 </div>
 
