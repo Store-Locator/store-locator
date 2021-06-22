@@ -1258,7 +1258,7 @@ incididunt.</p>
 </section>
 
 
-<footer class="footer">
+<footer class="footer" style="background-color: black;">
 
 <div class="footer-top">
 <div class="container">
