@@ -35,8 +35,8 @@
 
 <header class="header navbar-area">
 
-<div class="topbar">
-<div class="container">
+<div class="topbar" style="background-color: black;">
+<div class="container" >
 <div class="row align-items-center">
 
 <div class="col-lg-8 col-md-8 col-12">
@@ -79,7 +79,7 @@ Hello
 </a>
 
 </div>
-<div class="col-lg-5 col-md-7 d-xs-none">
+<!-- <div class="col-lg-5 col-md-7 d-xs-none">
 
 <div class="main-menu-search">
 
@@ -94,7 +94,7 @@ Hello
 
 </div>
 
-</div>
+</div> -->
 <!-- <div class="col-lg-4 col-md-2 col-5">
 <div class="middle-right-area">
 <div class="nav-hotline">
@@ -206,7 +206,22 @@ Apple Watch Series 6</a></h4>
 </ul>
 </div>
 
+<div class="col-lg-5 col-md-7 d-xs-none" style="margin-left: 20%;">
 
+<div class="main-menu-search">
+
+<div class="navbar-search"">
+<div class="search-input">
+<input type="text" placeholder="Search" >
+</div>
+<div class="search-btn">
+<button  style="background-color: black;"><i class="lni lni-search-alt"></i></button>
+</div>
+</div>
+
+</div>
+
+</div>
 <nav class="navbar navbar-expand-lg">
 <button class="navbar-toggler mobile-menu-btn" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="toggler-icon"></span>
@@ -215,10 +230,10 @@ Apple Watch Series 6</a></h4>
 </button>
 <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
 <ul id="nav" class="navbar-nav ms-auto">
-<li class="nav-item">
+<!-- <li class="nav-item">
 <a href="index.html" class="active" aria-label="Toggle navigation">Home</a>
-</li>
-<li class="nav-item">
+</li> -->
+<!-- <li class="nav-item">
 <a class="dd-menu collapsed" href="javascript:void(0)" data-bs-toggle="collapse" data-bs-target="#submenu-1-2" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">Pages</a>
 <ul class="sub-menu collapse" id="submenu-1-2">
 <li class="nav-item"><a href="about-us.html">About Us</a></li>
@@ -228,8 +243,8 @@ Apple Watch Series 6</a></h4>
 <li class="nav-item"><a href="mail-success.html">Mail Success</a></li>
 <li class="nav-item"><a href="404.html">404 Error</a></li>
 </ul>
-</li>
-<li class="nav-item">
+</li> -->
+<!-- <li class="nav-item">
 <a class="dd-menu collapsed" href="javascript:void(0)" data-bs-toggle="collapse" data-bs-target="#submenu-1-3" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">Shop</a>
 <ul class="sub-menu collapse" id="submenu-1-3">
 <li class="nav-item"><a href="product-grids.html">Shop Grid</a></li>
@@ -251,7 +266,7 @@ Sibebar</a></li>
 </li>
 <li class="nav-item">
 <a href="contact.html" aria-label="Toggle navigation">Contact Us</a>
-</li>
+</li> -->
 </ul>
 </div> 
 </nav>
@@ -286,29 +301,30 @@ Sibebar</a></li>
 
 
 <section class="hero-area">
-<div class="container">
+<div class="container" >
 <div class="row">
-<div class="col-lg-8 col-12 custom-padding-right">
+<div class="col-lg-8 col-12 custom-padding-right" style="margin-left: auto; margin-right: auto;">
 <div class="slider-head">
 
 <div class="hero-slider">
 
-<div class="single-slider" style="background-image: url('{{asset('images/hero/slider-bg1.jpg')}}');">
+<div class="single-slider" style="background-image: url('{{asset('images/hero/pic1.png')}}');">
 <div class="content">
-<h2><span>No restocking fee ($35 savings)</span>
+    <h2 style="color: white;">Serve Your Requirements</h2>
+<!-- <h2><span>No restocking fee ($35 savings)</span>
 M75 Sport Watch
 </h2>
 <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut
 labore dolore magna aliqua.</p>
 <h3><span>Now Only</span> $320.99</h3>
 <div class="button">
-<a href="product-grids.html" class="btn">Shop Now</a>
+<a href="product-grids.html" class="btn">Shop Now</a> -->
 </div>
 </div>
 </div>
 
 
-<div class="single-slider" style="background-image: url('{{asset('images/hero/slider-bg2.jpg')}}');">
+<!-- <div class="single-slider" style="background-image: url('{{asset('images/hero/slider-bg2.jpg')}}');">
 <div class="content">
 <h2><span>Big Sale Offer</span>
 Get the Best Deal on CCTV Camera
@@ -320,13 +336,13 @@ labore dolore magna aliqua.</p>
 <a href="product-grids.html" class="btn">Shop Now</a>
 </div>
 </div>
-</div>
+</div> -->
 
 </div>
 
 </div>
 </div>
-<div class="col-lg-4 col-12">
+<!-- <div class="col-lg-4 col-12">
 <div class="row">
 <div class="col-lg-12 col-md-6 col-12 md-custom-padding">
 
@@ -355,7 +371,7 @@ iPhone 12 Pro Max
 
 </div>
 </div>
-</div>
+</div> -->
 </div>
 </div>
 </section>
@@ -1387,7 +1403,7 @@ Subscribe to our Newsletter
 </footer>
 
 
-<a href="#" class="scroll-top">
+<a href="#" class="scroll-top"  style="background-color: black;">
 <i class="lni lni-chevron-up"></i>
 </a>
 
