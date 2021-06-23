@@ -35,7 +35,7 @@
 
 <header class="header navbar-area">
 
-<div class="topbar" style="background-color: black;">
+<div class="topbar" style="background-color:#292b2c;">
 <div class="container" >
 <div class="row align-items-center">
 
@@ -217,7 +217,7 @@ Apple Watch Series 6</a></h4>
 <input type="text" placeholder="Search" >
 </div>
 <div class="search-btn">
-<button  style="background-color: black;"><i class="lni lni-search-alt"></i></button>
+<button  style="background-color: #292b2c;"><i class="lni lni-search-alt"></i></button>
 </div>
 </div>
 
@@ -395,7 +395,7 @@ iPhone 12 Pro Max
 <div class="row">
 <div class="col-lg-4 col-md-6 col-12">
 
-<div class="single-category" style="border-color: black;background-color: black;">
+<div class="single-category" style="border-color: black;background-color: #292b2c;">
 <h3 class="heading" style="color: white;">Electronics and Electrician</h3>
 <ul>
 <li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
@@ -412,7 +412,7 @@ iPhone 12 Pro Max
 </div>
 <div class="col-lg-4 col-md-6 col-12">
 
-<div class="single-category" style="border-color: black;background-color: black; ">
+<div class="single-category" style="border-color: black;background-color:#292b2c; ">
 <h3 class="heading" style="color: white;">Automobiles and Mechanics</h3>
 <ul>
 <li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
@@ -429,7 +429,7 @@ iPhone 12 Pro Max
 </div>
 <div class="col-lg-4 col-md-6 col-12">
 
-<div class="single-category" style="border-color: black;background-color: black; ">
+<div class="single-category" style="border-color: black;background-color: #292b2c; ">
 <h3 class="heading" style="color: white;">Grocery</h3>
 <ul>
 <li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
@@ -446,7 +446,7 @@ iPhone 12 Pro Max
 </div>
 <div class="col-lg-4 col-md-6 col-12">
 
-<div class="single-category" style="border-color: black;background-color: black; ">
+<div class="single-category" style="border-color: black;background-color: #292b2c; ">
 <h3 class="heading" style="color: white;">Hardware and Plumbing</h3>
 <ul>
 <li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
@@ -463,7 +463,7 @@ iPhone 12 Pro Max
 </div>
 <div class="col-lg-4 col-md-6 col-12" style="border-color: black; ">
 
-<div class="single-category" style="border-color: black;background-color: black; ">
+<div class="single-category" style="border-color: black;background-color: #292b2c; ">
 <h3 class="heading" style="color: white;">Pharmacy</h3>
 <ul>
 <li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
@@ -480,7 +480,7 @@ iPhone 12 Pro Max
 </div>
 <div class="col-lg-4 col-md-6 col-12">
 
-<div class="single-category" style="border-color: black;background-color: black; ">
+<div class="single-category" style="border-color: black;background-color: #292b2c; ">
 <h3 class="heading" style="color: white;">Furniture and Carpentry</h3>
 <ul>
 <li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
@@ -1262,7 +1262,7 @@ incididunt.</p>
 </section>
 
 
-<footer class="footer" style="background-color: black;">
+<footer class="footer" style="background-color: #292b2c;">
 
 <div class="footer-top">
 <div class="container">
@@ -1406,11 +1406,11 @@ Subscribe to our Newsletter
 
 </footer>
 
-
-<a href="#" class="scroll-top"  style="background-color: black;">
+<!-- scroll up button-->
+<a href="#" class="scroll-top"  style="background-color: #292b2c;">
 <i class="lni lni-chevron-up"></i>
 </a>
-
+<!--end scroll up button -->
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="{{asset('js/bootstrap.min.js')}}"></script>
 <script src="{{asset('js/tiny-slider.js')}} "></script>
 <script src="{{asset('js/glightbox.min.js')}} "></script>
