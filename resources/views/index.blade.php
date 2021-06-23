@@ -170,7 +170,7 @@ Apple Watch Series 6</a></h4>
 <div class="nav-inner">
 
 <div class="mega-category-menu">
-<span class="cat-button"><i class="lni lni-menu"></i>All Categories</span>
+<span class="cat-button"><i class="lni lni-menu"></i>Categories</span>
 <ul class="sub-category">
 <li><a href="product-grids.html" >Electronics and Electrician
 <!-- <i class="lni lni-chevron-right"></i> -->
