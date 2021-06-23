@@ -1130,7 +1130,7 @@ eiusmod tempor labores.</p>
 </div>
 
 
-<section class="blog-section section">
+<!-- <section class="blog-section section">
 <div class="container">
 <div class="row">
 <div class="col-12">
@@ -1211,10 +1211,10 @@ incididunt.</p>
 </div>
 </div>
 </div>
-</section>
+</section> -->
 
 
-<section class="shipping-info">
+<!-- <section class="shipping-info">
 <div class="container">
 <ul>
 
@@ -1259,7 +1259,7 @@ incididunt.</p>
 </li>
 </ul>
 </div>
-</section>
+</section> -->
 
 
 <footer class="footer" style="background-color: #292b2c;">
@@ -1277,7 +1277,7 @@ incididunt.</p>
 </div>
 <div class="col-lg-9 col-md-8 col-12">
 <div>
-    <p style="color: white;font-size: 30px;"  >We provide serives you require at your nearest location.</p>
+    <p style="color: white;font-size: 30px;"  >We provide services you require at your nearest location.</p>
 </div>
 <!-- <div class="footer-newsletter">
 <h4 class="title">
