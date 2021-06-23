@@ -1276,7 +1276,10 @@ incididunt.</p>
 </div>
 </div>
 <div class="col-lg-9 col-md-8 col-12">
-<div class="footer-newsletter">
+<div>
+    <p style="color: white;font-size: 30px;"  >We provide serives you require at your nearest location.</p>
+</div>
+<!-- <div class="footer-newsletter">
 <h4 class="title">
 Subscribe to our Newsletter
 <span>Get all the latest information, Sales and Offers.</span>
@@ -1289,7 +1292,7 @@ Subscribe to our Newsletter
 </div>
 </form>
 </div>
-</div>
+</div> -->
 </div>
 </div>
 </div>
@@ -1301,7 +1304,7 @@ Subscribe to our Newsletter
 <div class="container">
  <div class="bottom-inner">
 <div class="row">
-<div class="col-lg-3 col-md-6 col-12">
+<!-- <div class="col-lg-3 col-md-6 col-12">
 
 <div class="single-footer f-contact">
 <h3>Get In Touch With Us</h3>
@@ -1315,12 +1318,13 @@ Subscribe to our Newsletter
 </p>
 </div>
 
-</div>
-<div class="col-lg-3 col-md-6 col-12">
+</div> -->
+<div class="col-lg-4 col-md-6 col-12">
 
 <div class="single-footer our-app">
 <h3>Our Mobile App</h3>
 <ul class="app-btn">
+<li>We are developing our android And ios App.Please wait till then.</li>
 <li>
 <a href="javascript:void(0)">
 <i class="lni lni-apple"></i>
@@ -1339,7 +1343,7 @@ Subscribe to our Newsletter
 </div>
 
 </div>
-<div class="col-lg-3 col-md-6 col-12">
+<div class="col-lg-4 col-md-6 col-12">
 
 <div class="single-footer f-link">
 <h3>Information</h3>
@@ -1353,16 +1357,17 @@ Subscribe to our Newsletter
 </div>
 
 </div>
-<div class="col-lg-3 col-md-6 col-12">
+<div class="col-lg-4 col-md-6 col-12">
 
 <div class="single-footer f-link">
-<h3>Shop Departments</h3>
+<h3>All Categories</h3>
 <ul>
-<li><a href="javascript:void(0)">Computers & Accessories</a></li>
-<li><a href="javascript:void(0)">Smartphones & Tablets</a></li>
-<li><a href="javascript:void(0)">TV, Video & Audio</a></li>
-<li><a href="javascript:void(0)">Cameras, Photo & Video</a></li>
-<li><a href="javascript:void(0)">Headphones</a></li>
+<li><a href="javascript:void(0)">Electronics and Electrician</a></li>
+<li><a href="javascript:void(0)">Automobiles and Mechanics</a></li>
+<li><a href="javascript:void(0)">Grocery</a></li>
+<li><a href="javascript:void(0)">Hardware and Plumbing</a></li>
+<li><a href="javascript:void(0)">Pharmacy</a></li>
+<li><a href="javascript:void(0)">Furniture and Carpentry</a></li>
 </ul>
 </div>
  
