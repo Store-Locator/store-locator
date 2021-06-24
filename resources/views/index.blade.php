@@ -35,8 +35,8 @@
 
 <header class="header navbar-area">
 
-<div class="topbar">
-<div class="container">
+<div class="topbar" style="background-color:#292b2c;">
+<div class="container" >
 <div class="row align-items-center">
 
 <div class="col-lg-8 col-md-8 col-12">
@@ -79,7 +79,7 @@ Hello
 </a>
 
 </div>
-<div class="col-lg-5 col-md-7 d-xs-none">
+<!-- <div class="col-lg-5 col-md-7 d-xs-none">
 
 <div class="main-menu-search">
 
@@ -94,7 +94,7 @@ Hello
 
 </div>
 
-</div>
+</div> -->
 <!-- <div class="col-lg-4 col-md-2 col-5">
 <div class="middle-right-area">
 <div class="nav-hotline">
@@ -166,13 +166,13 @@ Apple Watch Series 6</a></h4>
 
 <div class="container">
 <div class="row align-items-center">
-<div class="col-lg-8 col-md-6 col-12">
+<div class="col-lg-8 col-md-5 col-12">
 <div class="nav-inner">
 
 <div class="mega-category-menu">
-<span class="cat-button"><i class="lni lni-menu"></i>All Categories</span>
+<span class="cat-button"><i class="lni lni-menu"></i>Categories</span>
 <ul class="sub-category">
-<li><a href="product-grids.html">Electronics 
+<li><a href="product-grids.html" >Electronics and Electrician
 <!-- <i class="lni lni-chevron-right"></i> -->
 </a>
 <!-- <ul class="inner-sub-category">
@@ -188,9 +188,11 @@ Apple Watch Series 6</a></h4>
 <li><a href="product-grids.html">Cables & Adapters</a></li>
 </ul> -->
 </li>
-<li><a href="product-grids.html">Automobiles</a></li>
-<li><a href="product-grids.html">Grocery</a></li>
-<li><a href="product-grids.html">Hardware and Plumbing</a></li>
+<li><a  href="product-grids.html">Automobiles and Mechanics</a></li>
+<li><a  href="product-grids.html">Grocery</a></li>
+<li><a  href="product-grids.html">Hardware and Plumbing</a></li>
+<li><a  href="product-grids.html">Pharmacy</a></li>
+<li><a  href="product-grids.html">Furniture and Carpentry</a></li>
 <!-- <li><a href="product-grids.html">top 100 offer</a></li>
 <li><a href="product-grids.html">sunglass</a></li>
 <li><a href="product-grids.html">watch</a></li>
@@ -205,7 +207,25 @@ Apple Watch Series 6</a></h4>
 <li><a class="dropdown-item" href="#">Hardware and Plumbing</a></li> -->
 </ul>
 </div>
+<!-- Search Box -->
+<div class="col-lg-5 col-md-7 d-xs-none" style="margin-left: 20%;margin-top:1%;margin-bottom:1%;">
 
+<div class="main-menu-search">
+
+<div class="navbar-search">
+<div class="search-input">
+<input type="text" placeholder="Search" >
+</div>
+<div class="search-btn">
+<button  style="background-color: #292b2c;"><i class="lni lni-search-alt"></i></button>
+</div>
+</div>
+
+</div>
+
+</div>
+
+<!-- End Search Box -->
 
 <nav class="navbar navbar-expand-lg">
 <button class="navbar-toggler mobile-menu-btn" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -213,12 +233,12 @@ Apple Watch Series 6</a></h4>
 <span class="toggler-icon"></span>
 <span class="toggler-icon"></span>
 </button>
-<div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
+<!-- <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
 <ul id="nav" class="navbar-nav ms-auto">
 <li class="nav-item">
 <a href="index.html" class="active" aria-label="Toggle navigation">Home</a>
-</li>
-<li class="nav-item">
+</li> -->
+<!-- <li class="nav-item">
 <a class="dd-menu collapsed" href="javascript:void(0)" data-bs-toggle="collapse" data-bs-target="#submenu-1-2" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">Pages</a>
 <ul class="sub-menu collapse" id="submenu-1-2">
 <li class="nav-item"><a href="about-us.html">About Us</a></li>
@@ -228,8 +248,8 @@ Apple Watch Series 6</a></h4>
 <li class="nav-item"><a href="mail-success.html">Mail Success</a></li>
 <li class="nav-item"><a href="404.html">404 Error</a></li>
 </ul>
-</li>
-<li class="nav-item">
+</li> -->
+<!-- <li class="nav-item">
 <a class="dd-menu collapsed" href="javascript:void(0)" data-bs-toggle="collapse" data-bs-target="#submenu-1-3" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">Shop</a>
 <ul class="sub-menu collapse" id="submenu-1-3">
 <li class="nav-item"><a href="product-grids.html">Shop Grid</a></li>
@@ -251,9 +271,9 @@ Sibebar</a></li>
 </li>
 <li class="nav-item">
 <a href="contact.html" aria-label="Toggle navigation">Contact Us</a>
-</li>
+</li> 
 </ul>
-</div> 
+</div>  -->
 </nav>
 
 </div>
@@ -286,29 +306,30 @@ Sibebar</a></li>
 
 
 <section class="hero-area">
-<div class="container">
+<div class="container" >
 <div class="row">
-<div class="col-lg-8 col-12 custom-padding-right">
+<div class="col-lg-8 col-12 custom-padding-right" style="margin-left: auto; margin-right: auto;">
 <div class="slider-head">
 
 <div class="hero-slider">
 
-<div class="single-slider" style="background-image: url('{{asset('images/hero/slider-bg1.jpg')}}');">
+<div class="single-slider" style="background-image: url('{{asset('images/hero/pic1.png')}}');">
 <div class="content">
-<h2><span>No restocking fee ($35 savings)</span>
+    <h2 style="color: white;">Serve Your Requirements</h2>
+<!-- <h2><span>No restocking fee ($35 savings)</span>
 M75 Sport Watch
 </h2>
 <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut
 labore dolore magna aliqua.</p>
 <h3><span>Now Only</span> $320.99</h3>
 <div class="button">
-<a href="product-grids.html" class="btn">Shop Now</a>
+<a href="product-grids.html" class="btn">Shop Now</a> -->
 </div>
 </div>
 </div>
 
 
-<div class="single-slider" style="background-image: url('{{asset('images/hero/slider-bg2.jpg')}}');">
+<!-- <div class="single-slider" style="background-image: url('{{asset('images/hero/slider-bg2.jpg')}}');">
 <div class="content">
 <h2><span>Big Sale Offer</span>
 Get the Best Deal on CCTV Camera
@@ -320,13 +341,13 @@ labore dolore magna aliqua.</p>
 <a href="product-grids.html" class="btn">Shop Now</a>
 </div>
 </div>
-</div>
+</div> -->
 
 </div>
 
 </div>
 </div>
-<div class="col-lg-4 col-12">
+<!-- <div class="col-lg-4 col-12">
 <div class="row">
 <div class="col-lg-12 col-md-6 col-12 md-custom-padding">
 
@@ -355,7 +376,7 @@ iPhone 12 Pro Max
 
 </div>
 </div>
-</div>
+</div> -->
 </div>
 </div>
 </section>
@@ -367,110 +388,109 @@ iPhone 12 Pro Max
 <div class="col-12">
 <div class="section-title">
 <h2>Featured Categories</h2>
-<p>There are many variations of passages of Lorem Ipsum available, but the majority have
-suffered alteration in some form.</p>
+<p>There are many variations of bussiness and services near you.</p>
 </div>
 </div>
 </div>
 <div class="row">
 <div class="col-lg-4 col-md-6 col-12">
 
-<div class="single-category">
-<h3 class="heading">TV & Audios</h3>
+<div class="single-category" style="border-color: black;background-color: #292b2c;">
+<h3 class="heading" style="color: white;">Electronics and Electrician</h3>
 <ul>
-<li><a href="product-grids.html">Smart Television</a></li>
-<li><a href="product-grids.html">QLED TV</a></li>
-<li><a href="product-grids.html">Audios</a></li>
-<li><a href="product-grids.html">Headphones</a></li>
-<li><a href="product-grids.html">View All</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
+<li><a href="product-grids.html" style="color: white;">View All</a></li>
 </ul>
 <div class="images">
-<img src="{{asset('images/featured-categories/fetured-item-1.png')}}" alt="#">
+<!-- <img src="{{asset('images/featured-categories/pic1.png')}}" alt="#"> -->
 </div>
 </div>
 
 </div>
 <div class="col-lg-4 col-md-6 col-12">
 
-<div class="single-category">
-<h3 class="heading">Desktop & Laptop</h3>
+<div class="single-category" style="border-color: black;background-color:#292b2c; ">
+<h3 class="heading" style="color: white;">Automobiles and Mechanics</h3>
 <ul>
-<li><a href="product-grids.html">Smart Television</a></li>
-<li><a href="product-grids.html">QLED TV</a></li>
-<li><a href="product-grids.html">Audios</a></li>
-<li><a href="product-grids.html">Headphones</a></li>
-<li><a href="product-grids.html">View All</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
+<li><a href="product-grids.html" style="color: white;">View All</a></li>
 </ul>
 <div class="images">
-<img src="{{asset('images/featured-categories/fetured-item-2.png')}}" alt="#">
+<!-- <img src="{{asset('images/featured-categories/pic2.png')}}" alt="#"> -->
 </div>
 </div>
 
 </div>
 <div class="col-lg-4 col-md-6 col-12">
 
-<div class="single-category">
-<h3 class="heading">Cctv Camera</h3>
+<div class="single-category" style="border-color: black;background-color: #292b2c; ">
+<h3 class="heading" style="color: white;">Grocery</h3>
 <ul>
-<li><a href="product-grids.html">Smart Television</a></li>
-<li><a href="product-grids.html">QLED TV</a></li>
-<li><a href="product-grids.html">Audios</a></li>
-<li><a href="product-grids.html">Headphones</a></li>
-<li><a href="product-grids.html">View All</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
+<li><a href="product-grids.html" style="color: white;">View All</a></li>
 </ul>
 <div class="images">
-<img src="{{asset('images/featured-categories/fetured-item-3.png')}}" alt="#">
+<!-- <img src="{{asset('images/featured-categories/pic3.png')}}" alt="#"> -->
 </div>
 </div>
 
 </div>
 <div class="col-lg-4 col-md-6 col-12">
 
-<div class="single-category">
-<h3 class="heading">Dslr Camera</h3>
+<div class="single-category" style="border-color: black;background-color: #292b2c; ">
+<h3 class="heading" style="color: white;">Hardware and Plumbing</h3>
 <ul>
-<li><a href="product-grids.html">Smart Television</a></li>
-<li><a href="product-grids.html">QLED TV</a></li>
-<li><a href="product-grids.html">Audios</a></li>
-<li><a href="product-grids.html">Headphones</a></li>
-<li><a href="product-grids.html">View All</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
+<li><a href="product-grids.html" style="color: white;">View All</a></li>
 </ul>
 <div class="images">
-<img src="{{asset('images/featured-categories/fetured-item-4.png')}}" alt="#">
+<!-- <img src="{{asset('images/featured-categories/fetured-item-4.png')}}" alt="#"> -->
+</div>
+</div>
+
+</div>
+<div class="col-lg-4 col-md-6 col-12" style="border-color: black; ">
+
+<div class="single-category" style="border-color: black;background-color: #292b2c; ">
+<h3 class="heading" style="color: white;">Pharmacy</h3>
+<ul>
+<li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
+<li><a href="product-grids.html" style="color: white;">View All</a></li>
+</ul>
+<div class="images">
+<!-- <img src="{{asset('images/featured-categories/fetured-item-5.png')}}" alt="#"> -->
 </div>
 </div>
 
 </div>
 <div class="col-lg-4 col-md-6 col-12">
 
-<div class="single-category">
-<h3 class="heading">Smart Phones</h3>
+<div class="single-category" style="border-color: black;background-color: #292b2c; ">
+<h3 class="heading" style="color: white;">Furniture and Carpentry</h3>
 <ul>
-<li><a href="product-grids.html">Smart Television</a></li>
-<li><a href="product-grids.html">QLED TV</a></li>
-<li><a href="product-grids.html">Audios</a></li>
-<li><a href="product-grids.html">Headphones</a></li>
-<li><a href="product-grids.html">View All</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
+<li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
+<li><a href="product-grids.html" style="color: white;">View All</a></li>
 </ul>
 <div class="images">
-<img src="{{asset('images/featured-categories/fetured-item-5.png')}}" alt="#">
-</div>
-</div>
-
-</div>
-<div class="col-lg-4 col-md-6 col-12">
-
-<div class="single-category">
-<h3 class="heading">Game Console</h3>
-<ul>
-<li><a href="product-grids.html">Smart Television</a></li>
-<li><a href="product-grids.html">QLED TV</a></li>
-<li><a href="product-grids.html">Audios</a></li>
-<li><a href="product-grids.html">Headphones</a></li>
-<li><a href="product-grids.html">View All</a></li>
-</ul>
-<div class="images">
-<img src="{{asset('images/featured-categories/fetured-item-6.png')}}" alt="#">
+<!-- <img src="{{asset('images/featured-categories/fetured-item-6.png')}}" alt="#"> -->
 </div>
 </div>
 
@@ -1110,7 +1130,7 @@ eiusmod tempor labores.</p>
 </div>
 
 
-<section class="blog-section section">
+<!-- <section class="blog-section section">
 <div class="container">
 <div class="row">
 <div class="col-12">
@@ -1191,10 +1211,10 @@ incididunt.</p>
 </div>
 </div>
 </div>
-</section>
+</section> -->
 
 
-<section class="shipping-info">
+<!-- <section class="shipping-info">
 <div class="container">
 <ul>
 
@@ -1239,10 +1259,10 @@ incididunt.</p>
 </li>
 </ul>
 </div>
-</section>
+</section> -->
 
 
-<footer class="footer">
+<footer class="footer" style="background-color: #292b2c;">
 
 <div class="footer-top">
 <div class="container">
@@ -1256,7 +1276,10 @@ incididunt.</p>
 </div>
 </div>
 <div class="col-lg-9 col-md-8 col-12">
-<div class="footer-newsletter">
+<div>
+    <p style="color: white;font-size: 30px;"  >We provide services you require at your nearest location.</p>
+</div>
+<!-- <div class="footer-newsletter">
 <h4 class="title">
 Subscribe to our Newsletter
 <span>Get all the latest information, Sales and Offers.</span>
@@ -1269,7 +1292,7 @@ Subscribe to our Newsletter
 </div>
 </form>
 </div>
-</div>
+</div> -->
 </div>
 </div>
 </div>
@@ -1281,7 +1304,7 @@ Subscribe to our Newsletter
 <div class="container">
  <div class="bottom-inner">
 <div class="row">
-<div class="col-lg-3 col-md-6 col-12">
+<!-- <div class="col-lg-3 col-md-6 col-12">
 
 <div class="single-footer f-contact">
 <h3>Get In Touch With Us</h3>
@@ -1295,12 +1318,13 @@ Subscribe to our Newsletter
 </p>
 </div>
 
-</div>
-<div class="col-lg-3 col-md-6 col-12">
+</div> -->
+<div class="col-lg-4 col-md-6 col-12">
 
 <div class="single-footer our-app">
 <h3>Our Mobile App</h3>
 <ul class="app-btn">
+<li>We are developing our android And ios App.Please wait till then.</li>
 <li>
 <a href="javascript:void(0)">
 <i class="lni lni-apple"></i>
@@ -1319,7 +1343,7 @@ Subscribe to our Newsletter
 </div>
 
 </div>
-<div class="col-lg-3 col-md-6 col-12">
+<div class="col-lg-4 col-md-6 col-12">
 
 <div class="single-footer f-link">
 <h3>Information</h3>
@@ -1333,16 +1357,17 @@ Subscribe to our Newsletter
 </div>
 
 </div>
-<div class="col-lg-3 col-md-6 col-12">
+<div class="col-lg-4 col-md-6 col-12">
 
 <div class="single-footer f-link">
-<h3>Shop Departments</h3>
+<h3>All Categories</h3>
 <ul>
-<li><a href="javascript:void(0)">Computers & Accessories</a></li>
-<li><a href="javascript:void(0)">Smartphones & Tablets</a></li>
-<li><a href="javascript:void(0)">TV, Video & Audio</a></li>
-<li><a href="javascript:void(0)">Cameras, Photo & Video</a></li>
-<li><a href="javascript:void(0)">Headphones</a></li>
+<li><a href="javascript:void(0)">Electronics and Electrician</a></li>
+<li><a href="javascript:void(0)">Automobiles and Mechanics</a></li>
+<li><a href="javascript:void(0)">Grocery</a></li>
+<li><a href="javascript:void(0)">Hardware and Plumbing</a></li>
+<li><a href="javascript:void(0)">Pharmacy</a></li>
+<li><a href="javascript:void(0)">Furniture and Carpentry</a></li>
 </ul>
 </div>
  
@@ -1386,11 +1411,11 @@ Subscribe to our Newsletter
 
 </footer>
 
-
-<a href="#" class="scroll-top">
+<!-- scroll up button-->
+<a href="#" class="scroll-top"  style="background-color: #292b2c;">
 <i class="lni lni-chevron-up"></i>
 </a>
-
+<!--end scroll up button -->
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="{{asset('js/bootstrap.min.js')}}"></script>
 <script src="{{asset('js/tiny-slider.js')}} "></script>
 <script src="{{asset('js/glightbox.min.js')}} "></script>
