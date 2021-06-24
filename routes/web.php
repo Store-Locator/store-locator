@@ -15,24 +15,20 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('welcome');
-
 });
 
-Route::get('/navbar',function(){
+Route::get('/navbar', function () {
     return view('masterlayout/navbar');
-
 });
 
-Route::get('/footer',function(){
+Route::get('/footer', function () {
     return view('masterlayout/footer');
 });
 
-Route::get('/index',function(){
+Route::get('/index', function () {
     return view('index');
 });
 
-Route::get('/register',function(){
+Route::get('/register', function () {
     return view('register');
 });
-
-
