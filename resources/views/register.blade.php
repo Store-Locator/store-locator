@@ -23,23 +23,23 @@
       </p>
     <![endif]-->
 
-<!-- <div class="preloader">
+<div class="preloader">
 <div class="preloader-inner">
 <div class="preloader-icon">
 <span></span>
 <span></span>
 </div>
 </div>
-</div> -->
+</div>
 
 
 <header class="header navbar-area">
 
-<div class="topbar">
-<div class="container">
+<div class="topbar" style="background-color:#292b2c;">
+<div class="container" >
 <div class="row align-items-center">
 
-<div class="col-lg-8 col-md-8 col-12">
+<div class="col-lg-8 col-md-8 col-s-4">
 <div class="top-middle">
 <ul class="useful-links">
 <li><a href="#">Home</a></li>
@@ -79,7 +79,7 @@ Hello
 </a>
 
 </div>
-<div class="col-lg-5 col-md-7 d-xs-none">
+<!-- <div class="col-lg-5 col-md-7 d-xs-none">
 
 <div class="main-menu-search">
 
@@ -94,7 +94,7 @@ Hello
 
 </div>
 
-</div>
+</div> -->
 <!-- <div class="col-lg-4 col-md-2 col-5">
 <div class="middle-right-area">
 <div class="nav-hotline">
@@ -166,13 +166,13 @@ Apple Watch Series 6</a></h4>
 
 <div class="container">
 <div class="row align-items-center">
-<div class="col-lg-8 col-md-6 col-12">
+<div class="col-lg-8 col-md-5 col-12">
 <div class="nav-inner">
 
 <div class="mega-category-menu">
-<span class="cat-button"><i class="lni lni-menu"></i>All Categories</span>
+<span class="cat-button"><i class="lni lni-menu"></i>Categories</span>
 <ul class="sub-category">
-<li><a href="product-grids.html">Electronics 
+<li><a href="product-grids.html" >Electronics and Electrician
 <!-- <i class="lni lni-chevron-right"></i> -->
 </a>
 <!-- <ul class="inner-sub-category">
@@ -188,9 +188,11 @@ Apple Watch Series 6</a></h4>
 <li><a href="product-grids.html">Cables & Adapters</a></li>
 </ul> -->
 </li>
-<li><a href="product-grids.html">Automobiles</a></li>
-<li><a href="product-grids.html">Grocery</a></li>
-<li><a href="product-grids.html">Hardware and Plumbing</a></li>
+<li><a  href="product-grids.html">Automobiles and Mechanics</a></li>
+<li><a  href="product-grids.html">Grocery</a></li>
+<li><a  href="product-grids.html">Hardware and Plumbing</a></li>
+<li><a  href="product-grids.html">Pharmacy</a></li>
+<li><a  href="product-grids.html">Furniture and Carpentry</a></li>
 <!-- <li><a href="product-grids.html">top 100 offer</a></li>
 <li><a href="product-grids.html">sunglass</a></li>
 <li><a href="product-grids.html">watch</a></li>
@@ -205,7 +207,25 @@ Apple Watch Series 6</a></h4>
 <li><a class="dropdown-item" href="#">Hardware and Plumbing</a></li> -->
 </ul>
 </div>
+<!-- Search Box -->
+<div class="col-lg-5 col-md-7 d-xs-none" style="margin-left: 20%;margin-top:1%;margin-bottom:1%;">
 
+<div class="main-menu-search">
+
+<div class="navbar-search">
+<div class="search-input">
+<input type="text" placeholder="Search" >
+</div>
+<div class="search-btn">
+<button  style="background-color: #292b2c;"><i class="lni lni-search-alt"></i></button>
+</div>
+</div>
+
+</div>
+
+</div>
+
+<!-- End Search Box -->
 
 <nav class="navbar navbar-expand-lg">
 <button class="navbar-toggler mobile-menu-btn" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -213,12 +233,12 @@ Apple Watch Series 6</a></h4>
 <span class="toggler-icon"></span>
 <span class="toggler-icon"></span>
 </button>
-<div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
+<!-- <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
 <ul id="nav" class="navbar-nav ms-auto">
 <li class="nav-item">
 <a href="index.html" class="active" aria-label="Toggle navigation">Home</a>
-</li>
-<li class="nav-item">
+</li> -->
+<!-- <li class="nav-item">
 <a class="dd-menu collapsed" href="javascript:void(0)" data-bs-toggle="collapse" data-bs-target="#submenu-1-2" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">Pages</a>
 <ul class="sub-menu collapse" id="submenu-1-2">
 <li class="nav-item"><a href="about-us.html">About Us</a></li>
@@ -228,8 +248,8 @@ Apple Watch Series 6</a></h4>
 <li class="nav-item"><a href="mail-success.html">Mail Success</a></li>
 <li class="nav-item"><a href="404.html">404 Error</a></li>
 </ul>
-</li>
-<li class="nav-item">
+</li> -->
+<!-- <li class="nav-item">
 <a class="dd-menu collapsed" href="javascript:void(0)" data-bs-toggle="collapse" data-bs-target="#submenu-1-3" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">Shop</a>
 <ul class="sub-menu collapse" id="submenu-1-3">
 <li class="nav-item"><a href="product-grids.html">Shop Grid</a></li>
@@ -251,9 +271,9 @@ Sibebar</a></li>
 </li>
 <li class="nav-item">
 <a href="contact.html" aria-label="Toggle navigation">Contact Us</a>
-</li>
+</li> 
 </ul>
-</div> 
+</div>  -->
 </nav>
 
 </div>
@@ -311,10 +331,12 @@ Sibebar</a></li>
 <div class="register-form">
 <div class="title">
 <h3>No Account? Register As : </h3>
-<input class="form-control" type="radio" id="reg-type" name="radio1" value="Business" required> Business </input>
-<input class="form-control" type="radio" id="reg-type" name="radio2" value="Customer" required> Customer </input>
-<!--<p>Registration takes less than a minute but gives you full control over .</p> -->
-
+</div>
+<div>
+<div class="form-group">
+<input class="cols-lg-5" type="radio" id="reg-type" name="radio1" value="Business" required> Business </input>
+<input class="cols-lg-5" type="radio" id="reg-type" name="radio1" value="Customer" required> Customer </input>
+</div>
 </div>
 <form class="row" method="post">
 <div class="col-sm-6">
@@ -363,7 +385,7 @@ Sibebar</a></li>
 </div>
 <div class="col-sm-6">
 <div class="form-group">
-<label for="reg-bt">Busniess timing</label>
+<label for="reg-bt">Business timing</label>
 <input class="form-control" type="time" id="hours" name="time" value="09:00" required>
 <label for="reg-bt">To</label>
 <input class="form-control" type="time" id="reg-bt" name="time" value="18:00" required>
@@ -375,7 +397,6 @@ Sibebar</a></li>
 <input class="form-control" type="email" id="reg-email" required>
 </div>
 </div>
-
 <div class="col-sm-6">
 <div class="form-group">
 <label for="reg-pass">Password</label>
@@ -389,10 +410,10 @@ Sibebar</a></li>
 </div>
 </div>
 <div class="button">
-<button class="btn" type="submit">Register</button>
+<button class="btn" type="submit">Register</button> 
 </div>
 <div class="button">
-<button class="reset-btn" type="reset">Reset</button>
+<button class="btn" type="reset">Reset</button>
 </div>
 <p class="outer-link">Already have an account? <a href="login.html">Login Now</a>
 </p>
@@ -403,8 +424,7 @@ Sibebar</a></li>
 </div>
 </div>
 
-
-<footer class="footer">
+<footer class="footer" style="background-color: #292b2c;">
 
 <div class="footer-top">
 <div class="container">
@@ -412,13 +432,16 @@ Sibebar</a></li>
 <div class="row">
 <div class="col-lg-3 col-md-4 col-12">
 <div class="footer-logo">
-<a href="index-2.html">
-<img src="assets/images/logo/white-logo.svg" alt="#">
+<a href="index.html">
+<img src="{{asset('images/logo/white-logo.svg')}}" alt="#">
 </a>
 </div>
 </div>
 <div class="col-lg-9 col-md-8 col-12">
-<div class="footer-newsletter">
+<div>
+    <p style="color: white;font-size: 30px;"  >We provide services you require at your nearest location.</p>
+</div>
+<!-- <div class="footer-newsletter">
 <h4 class="title">
 Subscribe to our Newsletter
 <span>Get all the latest information, Sales and Offers.</span>
@@ -431,7 +454,7 @@ Subscribe to our Newsletter
 </div>
 </form>
 </div>
-</div>
+</div> -->
 </div>
 </div>
 </div>
@@ -441,9 +464,9 @@ Subscribe to our Newsletter
 
 <div class="footer-middle">
 <div class="container">
-<div class="bottom-inner">
+ <div class="bottom-inner">
 <div class="row">
-<div class="col-lg-3 col-md-6 col-12">
+<!-- <div class="col-lg-3 col-md-6 col-12">
 
 <div class="single-footer f-contact">
 <h3>Get In Touch With Us</h3>
@@ -453,16 +476,17 @@ Subscribe to our Newsletter
 <li><span>Saturday: </span> 10.00 am - 6.00 pm</li>
 </ul>
 <p class="mail">
-<a href="https://demo.graygrids.com/cdn-cgi/l/email-protection#8efdfbfefee1fcfacefde6e1fee9fce7eafda0ede1e3"><span class="__cf_email__" data-cfemail="f0838580809f8284b083989f809782999483de939f9d">[email&#160;protected]</span></a>
+<a href="/cdn-cgi/l/email-protection#85f6f0f5f5eaf7f1c5f6edeaf5e2f7ece1f6abe6eae8"><span class="__cf_email__" data-cfemail="790a0c0909160b0d390a1116091e0b101d0a571a1614">[email&#160;protected]</span></a>
 </p>
 </div>
 
-</div>
-<div class="col-lg-3 col-md-6 col-12">
+</div> -->
+<div class="col-lg-4 col-md-6 col-12">
 
 <div class="single-footer our-app">
 <h3>Our Mobile App</h3>
 <ul class="app-btn">
+<li>We are developing our android And ios App.Please wait till then.</li>
 <li>
 <a href="javascript:void(0)">
 <i class="lni lni-apple"></i>
@@ -481,7 +505,7 @@ Subscribe to our Newsletter
 </div>
 
 </div>
-<div class="col-lg-3 col-md-6 col-12">
+<div class="col-lg-4 col-md-6 col-12">
 
 <div class="single-footer f-link">
 <h3>Information</h3>
@@ -495,19 +519,20 @@ Subscribe to our Newsletter
 </div>
 
 </div>
-<div class="col-lg-3 col-md-6 col-12">
+<div class="col-lg-4 col-md-6 col-12">
 
 <div class="single-footer f-link">
-<h3>Shop Departments</h3>
+<h3>All Categories</h3>
 <ul>
-<li><a href="javascript:void(0)">Computers & Accessories</a></li>
-<li><a href="javascript:void(0)">Smartphones & Tablets</a></li>
-<li><a href="javascript:void(0)">TV, Video & Audio</a></li>
-<li><a href="javascript:void(0)">Cameras, Photo & Video</a></li>
-<li><a href="javascript:void(0)">Headphones</a></li>
+<li><a href="javascript:void(0)">Electronics and Electrician</a></li>
+<li><a href="javascript:void(0)">Automobiles and Mechanics</a></li>
+<li><a href="javascript:void(0)">Grocery</a></li>
+<li><a href="javascript:void(0)">Hardware and Plumbing</a></li>
+<li><a href="javascript:void(0)">Pharmacy</a></li>
+<li><a href="javascript:void(0)">Furniture and Carpentry</a></li>
 </ul>
 </div>
-
+ 
 </div>
 </div>
 </div>
@@ -522,12 +547,12 @@ Subscribe to our Newsletter
 <div class="col-lg-4 col-12">
 <div class="payment-gateway">
 <span>We Accept:</span>
-<img src="assets/images/footer/credit-cards-footer.png" alt="#">
+<img src="{{asset('images/footer/credit-cards-footer.png')}}" alt="#">
 </div>
 </div>
 <div class="col-lg-4 col-12">
 <div class="copyright">
-<p>Designed and Developed by<a href="https://graygrids.com/" rel="nofollow" target="_blank">GrayGrids</a></p>
+<p>Designed and Developed by<a href="#" rel="nofollow" target="_blank">AAA</a></p>
 </div>
 </div>
 <div class="col-lg-4 col-12">
@@ -548,16 +573,86 @@ Subscribe to our Newsletter
 
 </footer>
 
-
-<a href="#" class="scroll-top">
+<!-- scroll up button-->
+<a href="#" class="scroll-top"  style="background-color: #292b2c;">
 <i class="lni lni-chevron-up"></i>
 </a>
+<!--end scroll up button -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="{{asset('js/bootstrap.min.js')}}"></script>
+<script src="{{asset('js/tiny-slider.js')}} "></script>
+<script src="{{asset('js/glightbox.min.js')}} "></script>
+<script src="{{asset('js/main.js')}}"></script>
+<script type="text/javascript">
+        //========= Hero Slider 
+        tns({
+            container: '.hero-slider',
+            slideBy: 'page',
+            autoplay: true,
+            autoplayButtonOutput: false,
+            mouseDrag: true,
+            gutter: 0,
+            items: 1,
+            nav: false,
+            controls: true,
+            controlsText: ['<i class="lni lni-chevron-left"></i>', '<i class="lni lni-chevron-right"></i>'],
+        });
 
-<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/bootstrap.min.js"></script>
-<script src="assets/js/tiny-slider.js"></script>
-<script src="assets/js/glightbox.min.js"></script>
-<script src="assets/js/main.js"></script>
+        //======== Brand Slider
+        tns({
+            container: '.brands-logo-carousel',
+            autoplay: true,
+            autoplayButtonOutput: false,
+            mouseDrag: true,
+            gutter: 15,
+            nav: false,
+            controls: false,
+            responsive: {
+                0: {
+                    items: 1,
+                },
+                540: {
+                    items: 3,
+                },
+                768: {
+                    items: 5,
+                },
+                992: {
+                    items: 6,
+                }
+            }
+        });
+
+    </script>
+<script>
+        const finaleDate = new Date("February 15, 2023 00:00:00").getTime();
+
+        const timer = () => {
+            const now = new Date().getTime();
+            let diff = finaleDate - now;
+            if (diff < 0) {
+                document.querySelector('.alert').style.display = 'block';
+                document.querySelector('.container').style.display = 'none';
+            }
+
+            let days = Math.floor(diff / (1000 * 60 * 60 * 24));
+            let hours = Math.floor(diff % (1000 * 60 * 60 * 24) / (1000 * 60 * 60));
+            let minutes = Math.floor(diff % (1000 * 60 * 60) / (1000 * 60));
+            let seconds = Math.floor(diff % (1000 * 60) / 1000);
+
+            days <= 99 ? days = `0${days}` : days;
+            days <= 9 ? days = `00${days}` : days;
+            hours <= 9 ? hours = `0${hours}` : hours;
+            minutes <= 9 ? minutes = `0${minutes}` : minutes;
+            seconds <= 9 ? seconds = `0${seconds}` : seconds;
+
+            document.querySelector('#days').textContent = days;
+            document.querySelector('#hours').textContent = hours;
+            document.querySelector('#minutes').textContent = minutes;
+            document.querySelector('#seconds').textContent = seconds;
+
+        }
+        timer();
+        setInterval(timer, 1000);
+    </script>
 </body>
-
-<!-- Mirrored from demo.graygrids.com/themes/shopgrids/register.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 18 Jun 2021 17:17:06 GMT -->
 </html>
