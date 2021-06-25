@@ -59,7 +59,7 @@ Hello
 <a href="login.html">Sign In</a>
 </li>
 <li>
-<a href="register.html">Register</a>
+<a href="http://store-locator.test/register#">Register</a>
 </li>
 </ul>
 </div>
@@ -74,7 +74,7 @@ Hello
 <div class="row align-items-center">
 <div class="col-lg-3 col-md-3 col-7">
 
-<a class="navbar-brand" href="index.html">
+<a class="navbar-brand" href="http://store-locator.test/index">
 <img src="{{asset('images/logo/logo.svg')}}" alt="Logo">
 </a>
 
