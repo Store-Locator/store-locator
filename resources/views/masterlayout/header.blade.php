@@ -7,7 +7,7 @@
                 <div class="col-lg-8 col-md-8 col-12">
                     <div class="top-middle">
                         <ul class="useful-links">
-                            <li><a href="#">Home</a></li>
+                            <li><a href="http://store-locator.test/index">Home</a></li>
                             <li><a href="http://store-locator.test/about-us">About Us</a></li>
                             <li><a href="http://store-locator.test/contact">Contact Us</a></li>
                         </ul>

@@ -155,7 +155,7 @@ Ipsum available, but the majority have suffered alteration in some form.</p>
 
 @include('masterlayout.footer')
 
-<a href="#" class="scroll-top">
+<a href="#" class="scroll-top" style="background-color: #292b2c;">
 <i class="lni lni-chevron-up"></i>
 </a>
 
