@@ -32,3 +32,12 @@ Route::get('/index', function () {
 Route::get('/register', function () {
     return view('register');
 });
+
+Route::get('/about-us', function () {
+    return view('about-us');
+});
+
+Route::get('/contact', function () {
+    return view('contact');
+});
+

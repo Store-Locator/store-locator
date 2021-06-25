@@ -248,7 +248,9 @@ suffered alteration in some form.</p>
 <div class="product-image">
 <img src="{{asset('images/products/product-1.jpg')}}" alt="#">
 <div class="button">
-<a href="product-details.html" class="btn"><i class=""></i>View Details</a>
+<a href="product-details.html" class="btn">
+<!-- <i class="lni lni-cart"> -->
+</i>View Details</a>
 </div>
 </div>
  <div class="product-info">
@@ -264,9 +266,9 @@ suffered alteration in some form.</p>
 <li><i class="lni lni-star"></i></li>
 <li><span>4.0 Review(s)</span></li>
 </ul>
-<div class="price">
+<!-- <div class="price">
 <span>$199.00</span>
-</div>
+</div> -->
 </div>
 </div>
 
@@ -276,9 +278,9 @@ suffered alteration in some form.</p>
 <div class="single-product">
 <div class="product-image">
 <img src="{{asset('images/products/product-2.jpg')}}" alt="#">
-<span class="sale-tag">-25%</span>
+<!-- <span class="sale-tag">-25%</span> -->
 <div class="button">
-<a href="product-details.html" class="btn"><i class="lni lni-cart"></i>View Details</a>
+<a href="product-details.html" class="btn">View Details</a>
 </div>
 </div>
 <div class="product-info">
@@ -294,10 +296,10 @@ suffered alteration in some form.</p>
 <li><i class="lni lni-star-filled"></i></li>
 <li><span>5.0 Review(s)</span></li>
 </ul>
-<div class="price">
+<!-- <div class="price">
 <span>$275.00</span>
 <span class="discount-price">$300.00</span>
-</div>
+</div> -->
 </div>
 </div>
 
@@ -308,7 +310,7 @@ suffered alteration in some form.</p>
 <div class="product-image">
 <img src="{{asset('images/products/product-3.jpg')}}" alt="#">
 <div class="button">
-<a href="product-details.html" class="btn"><i class="lni lni-cart"></i>View Details</a>
+<a href="product-details.html" class="btn">View Details</a>
 </div>
 </div>
 <div class="product-info">
@@ -324,9 +326,9 @@ suffered alteration in some form.</p>
 <li><i class="lni lni-star-filled"></i></li>
 <li><span>5.0 Review(s)</span></li>
 </ul>
-<div class="price">
+<!-- <div class="price">
 <span>$399.00</span>
-</div>
+</div> -->
 </div>
 </div>
 
@@ -336,9 +338,9 @@ suffered alteration in some form.</p>
 <div class="single-product">
 <div class="product-image">
 <img src="{{asset('images/products/product-4.jpg')}}" alt="#">
-<span class="new-tag">New</span>
+<!-- <span class="new-tag">New</span> -->
 <div class="button">
-<a href="product-details.html" class="btn"><i class="lni lni-cart"></i>View Details</a>
+<a href="product-details.html" class="btn">View Details</a>
 </div>
 </div>
 <div class="product-info">
@@ -354,9 +356,9 @@ suffered alteration in some form.</p>
 <li><i class="lni lni-star-filled"></i></li>
 <li><span>5.0 Review(s)</span></li>
 </ul>
-<div class="price">
+<!-- <div class="price">
 <span>$400.00</span>
-</div>
+</div> -->
 </div>
 </div>
 
@@ -367,7 +369,7 @@ suffered alteration in some form.</p>
 <div class="product-image">
 <img src="{{asset('images/products/product-5.jpg')}}" alt="#">
 <div class="button">
-<a href="product-details.html" class="btn"><i class="lni lni-cart"></i>View Details</a>
+<a href="product-details.html" class="btn">View Details</a>
 </div>
 </div>
 <div class="product-info">
@@ -383,9 +385,9 @@ suffered alteration in some form.</p>
 <li><i class="lni lni-star-filled"></i></li>
 <li><span>5.0 Review(s)</span></li>
 </ul>
-<div class="price">
+<!-- <div class="price">
 <span>$350.00</span>
-</div>
+</div> -->
 </div>
 </div>
 
@@ -396,7 +398,7 @@ suffered alteration in some form.</p>
 <div class="product-image">
 <img src="{{asset('images/products/product-6.jpg')}}" alt="#">
 <div class="button">
- <a href="product-details.html" class="btn"><i class="lni lni-cart"></i>View Details</a>
+ <a href="product-details.html" class="btn">View Details</a>
 </div>
 </div>
 <div class="product-info">
@@ -412,9 +414,9 @@ suffered alteration in some form.</p>
 <li><i class="lni lni-star"></i></li>
 <li><span>4.0 Review(s)</span></li>
 </ul>
-<div class="price">
+<!-- <div class="price">
 <span>$70.00</span>
-</div>
+</div> -->
 </div>
 </div>
 
@@ -424,9 +426,9 @@ suffered alteration in some form.</p>
 <div class="single-product">
 <div class="product-image">
 <img src="{{asset('images/products/product-7.jpg')}}" alt="#">
-<span class="sale-tag">-50%</span>
+<!-- <span class="sale-tag">-50%</span> -->
 <div class="button">
-<a href="product-details.html" class="btn"><i class="lni lni-cart"></i>View Details</a>
+<a href="product-details.html" class="btn">View Details</a>
 </div>
 </div>
 <div class="product-info">
@@ -442,10 +444,10 @@ suffered alteration in some form.</p>
 <li><i class="lni lni-star"></i></li>
 <li><span>4.0 Review(s)</span></li>
 </ul>
-<div class="price">
+<!-- <div class="price">
 <span>$100.00</span>
 <span class="discount-price">$200.00</span>
-</div>
+</div> -->
 </div>
 </div>
 
@@ -456,7 +458,7 @@ suffered alteration in some form.</p>
 <div class="product-image">
 <img src="{{asset('images/products/product-8.jpg')}}" alt="#">
 <div class="button">
-<a href="product-details.html" class="btn"><i class="lni lni-cart"></i>View Details</a>
+<a href="product-details.html" class="btn">View Details</a>
 </div>
 </div>
 <div class="product-info">
@@ -472,9 +474,9 @@ suffered alteration in some form.</p>
 <li><i class="lni lni-star-filled"></i></li>
 <li><span>5.0 Review(s)</span></li>
 </ul>
-<div class="price">
+<!-- <div class="price">
 <span>$899.00</span>
-</div>
+</div> -->
 </div>
 </div>
 
@@ -990,8 +992,6 @@ incididunt.</p>
 </ul>
 </div>
 </section> -->
-
-
 
 @include('masterlayout.footer');
 

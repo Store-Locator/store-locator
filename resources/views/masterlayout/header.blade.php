@@ -8,8 +8,8 @@
                     <div class="top-middle">
                         <ul class="useful-links">
                             <li><a href="#">Home</a></li>
-                            <li><a href="about-us.html">About Us</a></li>
-                            <li><a href="contact.html">Contact Us</a></li>
+                            <li><a href="http://store-locator.test/about-us">About Us</a></li>
+                            <li><a href="http://store-locator.test/contact">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>
