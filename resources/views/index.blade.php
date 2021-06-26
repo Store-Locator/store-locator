@@ -39,7 +39,7 @@
 
                             <div class="single-slider" style="background-image: url('{{asset('images/hero/pic1.png')}}');">
                                 <div class="content">
-                                    <h2 style="color: white;">Serve Your Requirements</h2>
+                                    <h1 style="color: white;">Serve Your Requirements</h1>
                                     <!-- <h2><span>No restocking fee ($35 savings)</span>
 M75 Sport Watch
 </h2>
