@@ -7,7 +7,7 @@
 <div class="col-lg-3 col-md-4 col-12">
 <div class="footer-logo">
 <a href="index.html">
-<img src="{{asset('images/logo/white-logo.svg')}}" alt="#">
+<img src="{{asset('images/logo/logo2.png')}}" alt="#">
 </a>
 </div>
 </div>
@@ -84,11 +84,11 @@ Subscribe to our Newsletter
 <div class="single-footer f-link">
 <h3>Information</h3>
 <ul>
-<li><a href="javascript:void(0)">About Us</a></li>
-<li><a href="javascript:void(0)">Contact Us</a></li>
-<li><a href="javascript:void(0)">Downloads</a></li>
+<li><a href="http://store-locator.test/about-us">About Us</a></li>
+<li><a href="http://store-locator.test/contact">Contact Us</a></li>
+<!-- <li><a href="javascript:void(0)">Downloads</a></li>
 <li><a href="javascript:void(0)">Sitemap</a></li>
-<li><a href="javascript:void(0)">FAQs Page</a></li>
+<li><a href="javascript:void(0)">FAQs Page</a></li> -->
 </ul>
 </div>
 

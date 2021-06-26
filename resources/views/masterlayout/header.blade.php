@@ -37,12 +37,16 @@
     <div class="header-middle">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-3 col-md-3 col-7">
+                <div class="col-lg-4 col-md-3 col-7">
 
                     <a class="navbar-brand" href="http://store-locator.test/index">
-                        <img src="{{asset('images/logo/logo.svg')}}" alt="Logo">
+                        <img src="{{asset('images/logo/logo2.png')}}" alt="Logo">
                     </a>
 
+                </div>
+                <div class="col-lg-8 col-md-8 col-12">
+                <p style="color: black;font-size: 30px;" ><strong> Are you in need ? We are here to help you indeed.</strong></p>
+            
                 </div>
                 <!-- <div class="col-lg-5 col-md-7 d-xs-none">
 

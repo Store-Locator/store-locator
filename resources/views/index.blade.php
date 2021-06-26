@@ -235,7 +235,7 @@ iPhone 12 Pro Max
 <div class="row">
 <div class="col-12">
 <div class="section-title">
-<h2>Trending Product</h2>
+<h2>Trending Business</h2>
 <p>There are many variations of passages of Lorem Ipsum available, but the majority have
 suffered alteration in some form.</p>
 </div>
@@ -486,7 +486,7 @@ suffered alteration in some form.</p>
 </section>
 
 
-<section class="banner section">
+<!-- <section class="banner section">
 <div class="container">
 <div class="row">
 <div class="col-lg-6 col-md-6 col-12">
@@ -514,10 +514,10 @@ incididunt ut labore.</p>
 </div>
 </div>
 </div>
-</section>
+</section> -->
 
 
-<section class="special-offer section">
+<!-- <section class="special-offer section">
 <div class="container">
 <div class="row">
 <div class="col-12">
@@ -686,7 +686,7 @@ eiusmod tempor labores.</p>
 </div>
 </div>
 </div>
-</section>
+</section> -->
 
 
 <section class="home-product-list section">

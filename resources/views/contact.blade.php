@@ -5,7 +5,7 @@
 <head>
 <meta charset="utf-8" />
 <meta http-equiv="x-ua-compatible" content="ie=edge" />
-<title>Contact Us - ShopGrids Bootstrap 5 eCommerce HTML Template.</title>
+<title>Contact Us - Store-Locator</title>
 <meta name="description" content="" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.svg" />
@@ -63,8 +63,7 @@
 <div class="col-12">
 <div class="section-title">
 <h2>Contact Us</h2>
-<p>There are many variations of passages of Lorem
-Ipsum available, but the majority have suffered alteration in some form.</p>
+<p>If you have any queries regarding this website, Please contact us.</p>
 </div>
 </div>
 </div>
