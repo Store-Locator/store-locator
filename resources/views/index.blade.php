@@ -38,14 +38,14 @@
 <section class="hero-area">
 <div class="container" >
 <div class="row">
-<div class="col-lg-8 col-12 custom-padding-right" style="margin-left: auto; margin-right: auto;">
+<div class="col-lg-12 col-12 custom-padding-right" style="margin-left: auto; margin-right: auto;">
 <div class="slider-head">
 
 <div class="hero-slider">
 
-<div class="single-slider" style="background-image: url('{{asset('images/hero/pic1.png')}}');">
+<div class="single-slider" style="background-image: url('{{asset('images/hero/pic3.jpg')}}');">
 <div class="content">
-    <h2 style="color: white;">Serve Your Requirements</h2>
+    <h2 style="color: white;font-size:50px;">Serve Your Requirements</h2>
 <!-- <h2><span>No restocking fee ($35 savings)</span>
 M75 Sport Watch
 </h2>
