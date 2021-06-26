@@ -45,7 +45,7 @@
 
                 </div>
                 <div class="col-lg-8 col-md-8 col-12">
-                <p style="color: black;font-size: 30px;" ><strong> Are you in need ? We are here to help you indeed.</strong></p>
+                <p style="color: black;font-size: 30px;" ><strong> Are you in need ? We are here to help you indeed!</strong></p>
             
                 </div>
                 <!-- <div class="col-lg-5 col-md-7 d-xs-none">

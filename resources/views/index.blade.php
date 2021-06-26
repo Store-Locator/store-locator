@@ -36,16 +36,16 @@
 @include('masterlayout.header')
 
 <section class="hero-area">
-<div class="container" >
+<div class="container">
 <div class="row">
 <div class="col-lg-12 col-12 custom-padding-right" style="margin-left: auto; margin-right: auto;">
 <div class="slider-head">
 
 <div class="hero-slider">
 
-<div class="single-slider" style="background-image: url('{{asset('images/hero/pic3.jpg')}}');">
+<div class="single-slider" style="background-image: url({{asset('images/hero/pic1.png')}});">
 <div class="content">
-    <h2 style="color: white;font-size:50px;">Serve Your Requirements</h2>
+<h2 style="color: white;font-size:50px;">Serve Your Requirements</h2>
 <!-- <h2><span>No restocking fee ($35 savings)</span>
 M75 Sport Watch
 </h2>
@@ -53,14 +53,14 @@ M75 Sport Watch
 labore dolore magna aliqua.</p>
 <h3><span>Now Only</span> $320.99</h3>
 <div class="button">
-<a href="product-grids.html" class="btn">Shop Now</a> -->
-</div>
+<a href="product-grids.html" class="btn">Shop Now</a>
+</div> -->
 </div>
 </div>
 
 
-<!-- <div class="single-slider" style="background-image: url('{{asset('images/hero/slider-bg2.jpg')}}');">
-<div class="content">
+<div class="single-slider" style="background-image: url({{asset('images/hero/1.jpg')}});">
+<!-- <div class="content">
 <h2><span>Big Sale Offer</span>
 Get the Best Deal on CCTV Camera
 </h2>
@@ -70,10 +70,17 @@ labore dolore magna aliqua.</p>
 <div class="button">
 <a href="product-grids.html" class="btn">Shop Now</a>
 </div>
-</div>
 </div> -->
-
 </div>
+
+
+<div class="single-slider" style="background-image: url({{asset('images/hero/2.jpg')}});">
+<div class="content">
+<p style="margin-top: -250px;"><h1 style="color: black;font-size:60px;margin-left:70px;"><b>Fullfill your needs.</b></h1></p>
+</div>
+</div>
+
+
 
 </div>
 </div>
@@ -81,7 +88,7 @@ labore dolore magna aliqua.</p>
 <div class="row">
 <div class="col-lg-12 col-md-6 col-12 md-custom-padding">
 
-<div class="hero-small-banner" style="background-image: url('{{asset('images/hero/slider-bnr.jpg')}}');">
+<div class="hero-small-banner" style="background-image: url('assets/images/hero/slider-bnr.jpg');">
 <div class="content">
 <h2>
 <span>New line required</span>

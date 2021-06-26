@@ -2469,7 +2469,7 @@ ol {
     z-index: 2;
     color: #fff;
     font-size: 17px;
-    background: #0167f3;
+    background: #373838;
     border: none;
     padding: 2px 5px;
     border-radius: 4px;
@@ -2482,7 +2482,7 @@ ol {
     border-radius: 0;
 }
 .hero-area .tns-controls button:hover {
-    background-color: #081828;
+    background-color: #020508;
     color: #fff;
 }
 .hero-area .tns-controls button:first-child {
@@ -2498,7 +2498,7 @@ ol {
     width: 100%;
     background-position: center;
     background-repeat: no-repeat;
-    height: 600px;
+    height: 500px;
     position: relative;
 }
 @media (max-width: 767px) {
