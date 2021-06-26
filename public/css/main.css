@@ -6584,6 +6584,7 @@ blockquote span {
 .footer {
     background-color: #081828;
     position: relative;
+    margin-bottom: -10%;
 }
 .footer .footer-top .inner-content {
     padding: 60px 0;
