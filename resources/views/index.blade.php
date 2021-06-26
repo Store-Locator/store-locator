@@ -1,52 +1,46 @@
 <!DOCTYPE html>
 <html class="no-js" lang="zxx">
+
 <head>
-<meta charset="utf-8" />
-<meta http-equiv="x-ua-compatible" content="ie=edge" />
-<title>Store-Locator</title>
-<meta name="description" content="" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.svg" />
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Store-Locator</title>
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.svg" />
 
-<link rel="stylesheet" type="text/css" href="{{ asset('css/bootstrap.min.css') }}">
-<link rel="stylesheet" href="{{asset('css/LineIcons.3.0.css') }}" >
-<link rel="stylesheet" href="{{asset('css/tiny-slider.css') }}" >
-<link rel="stylesheet" href="{{asset('css/glightbox.min.css') }}" >
-<link rel="stylesheet" href="{{asset('css/main.css')}}" >
+    <link rel="stylesheet" type="text/css" href="{{ asset('css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{asset('css/LineIcons.3.0.css') }}">
+    <link rel="stylesheet" href="{{asset('css/tiny-slider.css') }}">
+    <link rel="stylesheet" href="{{asset('css/glightbox.min.css') }}">
+    <link rel="stylesheet" href="{{asset('css/main.css')}}">
 </head>
+
 <body>
-<!--[if lte IE 9]>
-      <p class="browserupgrade">
-        You are using an <strong>outdated</strong> browser. Please
-        <a href="https://browsehappy.com/">upgrade your browser</a> to improve
-        your experience and security.
-      </p>
-    <![endif]-->
-
-<div class="preloader">
-<div class="preloader-inner">
-<div class="preloader-icon">
-<span></span>
-<span></span>
-</div>
-</div>
-</div>
+    <div class="preloader">
+        <div class="preloader-inner">
+            <div class="preloader-icon">
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </div>
 
 
-@include('masterlayout.header')
+    @include('masterlayout.header')
 
-<section class="hero-area">
-<div class="container" >
-<div class="row">
-<div class="col-lg-8 col-12 custom-padding-right" style="margin-left: auto; margin-right: auto;">
-<div class="slider-head">
+    <section class="hero-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-12 custom-padding-right" style="margin-left: auto; margin-right: auto; width:100%;">
+                    <div class="slider-head">
 
-<div class="hero-slider">
+                        <div class="hero-slider">
 
-<div class="single-slider" style="background-image: url('{{asset('images/hero/pic1.png')}}');">
-<div class="content">
-    <h2 style="color: white;">Serve Your Requirements</h2>
-<!-- <h2><span>No restocking fee ($35 savings)</span>
+                            <div class="single-slider" style="background-image: url('{{asset('images/hero/pic1.png')}}');">
+                                <div class="content">
+                                    <h2 style="color: white;">Serve Your Requirements</h2>
+                                    <!-- <h2><span>No restocking fee ($35 savings)</span>
 M75 Sport Watch
 </h2>
 <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut
@@ -54,12 +48,12 @@ labore dolore magna aliqua.</p>
 <h3><span>Now Only</span> $320.99</h3>
 <div class="button">
 <a href="product-grids.html" class="btn">Shop Now</a> -->
-</div>
-</div>
-</div>
+                                </div>
+                            </div>
+                        </div>
 
 
-<!-- <div class="single-slider" style="background-image: url('{{asset('images/hero/slider-bg2.jpg')}}');">
+                        <!-- <div class="single-slider" style="background-image: url('{{asset('images/hero/slider-bg2.jpg')}}');">
 <div class="content">
 <h2><span>Big Sale Offer</span>
 Get the Best Deal on CCTV Camera
@@ -73,11 +67,11 @@ labore dolore magna aliqua.</p>
 </div>
 </div> -->
 
-</div>
+                    </div>
 
-</div>
-</div>
-<!-- <div class="col-lg-4 col-12">
+                </div>
+            </div>
+            <!-- <div class="col-lg-4 col-12">
 <div class="row">
 <div class="col-lg-12 col-md-6 col-12 md-custom-padding">
 
@@ -107,386 +101,387 @@ iPhone 12 Pro Max
 </div>
 </div>
 </div> -->
-</div>
-</div>
-</section>
+        </div>
+        </div>
+    </section>
 
 
-<section class="featured-categories section">
-<div class="container">
-<div class="row">
-<div class="col-12">
-<div class="section-title">
-<h2>Featured Categories</h2>
-<p>There are many variations of bussiness and services near you.</p>
-</div>
-</div>
-</div>
-<div class="row">
-<div class="col-lg-4 col-md-6 col-12">
+    <section class="featured-categories section">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="section-title">
+                        <h2>Featured Categories</h2>
+                        <p>There are many variations of bussiness and services near you.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-md-6 col-12">
 
-<div class="single-category" style="border-color: black;background-color: #292b2c;">
-<h3 class="heading" style="color: white;">Electronics and Electrician</h3>
-<ul>
-<li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
-<li><a href="product-grids.html" style="color: white;">View All</a></li>
-</ul>
-<div class="images">
-<!-- <img src="{{asset('images/featured-categories/pic1.png')}}" alt="#"> -->
-</div>
-</div>
+                    <div class="single-category" style="border-color: black;background-color: #292b2c;">
+                        <h3 class="heading" style="color: white;">Electronics and Electrician</h3>
+                        <ul>
+                            <li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
+                            <li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
+                            <li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
+                            <li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
+                            <li><a href="product-grids.html" style="color: white;">View All</a></li>
+                        </ul>
+                        <div class="images">
+                            <!-- <img src="{{asset('images/featured-categories/pic1.png')}}" alt="#"> -->
+                        </div>
+                    </div>
 
-</div>
-<div class="col-lg-4 col-md-6 col-12">
+                </div>
+                <div class="col-lg-4 col-md-6 col-12">
 
-<div class="single-category" style="border-color: black;background-color:#292b2c; ">
-<h3 class="heading" style="color: white;">Automobiles and Mechanics</h3>
-<ul>
-<li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
-<li><a href="product-grids.html" style="color: white;">View All</a></li>
-</ul>
-<div class="images">
-<!-- <img src="{{asset('images/featured-categories/pic2.png')}}" alt="#"> -->
-</div>
-</div>
+                    <div class="single-category" style="border-color: black;background-color:#292b2c; ">
+                        <h3 class="heading" style="color: white;">Automobiles and Mechanics</h3>
+                        <ul>
+                            <li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
+                            <li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
+                            <li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
+                            <li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
+                            <li><a href="product-grids.html" style="color: white;">View All</a></li>
+                        </ul>
+                        <div class="images">
+                            <!-- <img src="{{asset('images/featured-categories/pic2.png')}}" alt="#"> -->
+                        </div>
+                    </div>
 
-</div>
-<div class="col-lg-4 col-md-6 col-12">
+                </div>
+                <div class="col-lg-4 col-md-6 col-12">
 
-<div class="single-category" style="border-color: black;background-color: #292b2c; ">
-<h3 class="heading" style="color: white;">Grocery</h3>
-<ul>
-<li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
-<li><a href="product-grids.html" style="color: white;">View All</a></li>
-</ul>
-<div class="images">
-<!-- <img src="{{asset('images/featured-categories/pic3.png')}}" alt="#"> -->
-</div>
-</div>
+                    <div class="single-category" style="border-color: black;background-color: #292b2c; ">
+                        <h3 class="heading" style="color: white;">Grocery</h3>
+                        <ul>
+                            <li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
+                            <li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
+                            <li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
+                            <li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
+                            <li><a href="product-grids.html" style="color: white;">View All</a></li>
+                        </ul>
+                        <div class="images">
+                            <!-- <img src="{{asset('images/featured-categories/pic3.png')}}" alt="#"> -->
+                        </div>
+                    </div>
 
-</div>
-<div class="col-lg-4 col-md-6 col-12">
+                </div>
+                <div class="col-lg-4 col-md-6 col-12">
 
-<div class="single-category" style="border-color: black;background-color: #292b2c; ">
-<h3 class="heading" style="color: white;">Hardware and Plumbing</h3>
-<ul>
-<li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
-<li><a href="product-grids.html" style="color: white;">View All</a></li>
-</ul>
-<div class="images">
-<!-- <img src="{{asset('images/featured-categories/fetured-item-4.png')}}" alt="#"> -->
-</div>
-</div>
+                    <div class="single-category" style="border-color: black;background-color: #292b2c; ">
+                        <h3 class="heading" style="color: white;">Hardware and Plumbing</h3>
+                        <ul>
+                            <li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
+                            <li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
+                            <li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
+                            <li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
+                            <li><a href="product-grids.html" style="color: white;">View All</a></li>
+                        </ul>
+                        <div class="images">
+                            <!-- <img src="{{asset('images/featured-categories/fetured-item-4.png')}}" alt="#"> -->
+                        </div>
+                    </div>
 
-</div>
-<div class="col-lg-4 col-md-6 col-12" style="border-color: black; ">
+                </div>
+                <div class="col-lg-4 col-md-6 col-12" style="border-color: black; ">
 
-<div class="single-category" style="border-color: black;background-color: #292b2c; ">
-<h3 class="heading" style="color: white;">Pharmacy</h3>
-<ul>
-<li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
-<li><a href="product-grids.html" style="color: white;">View All</a></li>
-</ul>
-<div class="images">
-<!-- <img src="{{asset('images/featured-categories/fetured-item-5.png')}}" alt="#"> -->
-</div>
-</div>
+                    <div class="single-category" style="border-color: black;background-color: #292b2c; ">
+                        <h3 class="heading" style="color: white;">Pharmacy</h3>
+                        <ul>
+                            <li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
+                            <li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
+                            <li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
+                            <li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
+                            <li><a href="product-grids.html" style="color: white;">View All</a></li>
+                        </ul>
+                        <div class="images">
+                            <!-- <img src="{{asset('images/featured-categories/fetured-item-5.png')}}" alt="#"> -->
+                        </div>
+                    </div>
 
-</div>
-<div class="col-lg-4 col-md-6 col-12">
+                </div>
+                <div class="col-lg-4 col-md-6 col-12">
 
-<div class="single-category" style="border-color: black;background-color: #292b2c; ">
-<h3 class="heading" style="color: white;">Furniture and Carpentry</h3>
-<ul>
-<li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
-<li><a href="product-grids.html" style="color: white;">View All</a></li>
-</ul>
-<div class="images">
-<!-- <img src="{{asset('images/featured-categories/fetured-item-6.png')}}" alt="#"> -->
-</div>
-</div>
+                    <div class="single-category" style="border-color: black;background-color: #292b2c; ">
+                        <h3 class="heading" style="color: white;">Furniture and Carpentry</h3>
+                        <ul>
+                            <li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
+                            <li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
+                            <li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
+                            <li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
+                            <li><a href="product-grids.html" style="color: white;">View All</a></li>
+                        </ul>
+                        <div class="images">
+                            <!-- <img src="{{asset('images/featured-categories/fetured-item-6.png')}}" alt="#"> -->
+                        </div>
+                    </div>
 
-</div>
-</div>
-</div>
-</section>
+                </div>
+            </div>
+        </div>
+    </section>
 
 
-<section class="trending-product section">
-<div class="container">
-<div class="row">
-<div class="col-12">
-<div class="section-title">
-<h2>Trending Business</h2>
-<p>There are many variations of passages of Lorem Ipsum available, but the majority have
-suffered alteration in some form.</p>
-</div>
-</div>
-</div>
-<div class="row">
-<div class="col-lg-3 col-md-6 col-12">
+    <section class="trending-product section">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="section-title">
+                        <h2>Trending Business</h2>
+                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have
+                            suffered alteration in some form.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-3 col-md-6 col-12">
 
-<div class="single-product">
-<div class="product-image">
-<img src="{{asset('images/products/product-1.jpg')}}" alt="#">
-<div class="button">
-<a href="product-details.html" class="btn">
-<!-- <i class="lni lni-cart"> -->
-</i>View Details</a>
-</div>
-</div>
- <div class="product-info">
-<span class="category">Watches</span>
-<h4 class="title">
-<a href="product-grids.html">Xiaomi Mi Band 5</a>
-</h4>
-<ul class="review">
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star"></i></li>
-<li><span>4.0 Review(s)</span></li>
-</ul>
-<!-- <div class="price">
+                    <div class="single-product">
+                        <div class="product-image">
+                            <img src="{{asset('images/products/product-1.jpg')}}" alt="#">
+                            <div class="button">
+                                <a href="product-details.html" class="btn">
+                                    <!-- <i class="lni lni-cart"> -->
+                                    </i>View Details
+                                </a>
+                            </div>
+                        </div>
+                        <div class="product-info">
+                            <span class="category">Watches</span>
+                            <h4 class="title">
+                                <a href="product-grids.html">Xiaomi Mi Band 5</a>
+                            </h4>
+                            <ul class="review">
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star"></i></li>
+                                <li><span>4.0 Review(s)</span></li>
+                            </ul>
+                            <!-- <div class="price">
 <span>$199.00</span>
 </div> -->
-</div>
-</div>
+                        </div>
+                    </div>
 
-</div>
-<div class="col-lg-3 col-md-6 col-12">
+                </div>
+                <div class="col-lg-3 col-md-6 col-12">
 
-<div class="single-product">
-<div class="product-image">
-<img src="{{asset('images/products/product-2.jpg')}}" alt="#">
-<!-- <span class="sale-tag">-25%</span> -->
-<div class="button">
-<a href="product-details.html" class="btn">View Details</a>
-</div>
-</div>
-<div class="product-info">
-<span class="category">Speaker</span>
-<h4 class="title">
-<a href="product-grids.html">Big Power Sound Speaker</a>
-</h4>
-<ul class="review">
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><span>5.0 Review(s)</span></li>
-</ul>
-<!-- <div class="price">
+                    <div class="single-product">
+                        <div class="product-image">
+                            <img src="{{asset('images/products/product-2.jpg')}}" alt="#">
+                            <!-- <span class="sale-tag">-25%</span> -->
+                            <div class="button">
+                                <a href="product-details.html" class="btn">View Details</a>
+                            </div>
+                        </div>
+                        <div class="product-info">
+                            <span class="category">Speaker</span>
+                            <h4 class="title">
+                                <a href="product-grids.html">Big Power Sound Speaker</a>
+                            </h4>
+                            <ul class="review">
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><span>5.0 Review(s)</span></li>
+                            </ul>
+                            <!-- <div class="price">
 <span>$275.00</span>
 <span class="discount-price">$300.00</span>
 </div> -->
-</div>
-</div>
+                        </div>
+                    </div>
 
-</div>
-<div class="col-lg-3 col-md-6 col-12">
+                </div>
+                <div class="col-lg-3 col-md-6 col-12">
 
-<div class="single-product">
-<div class="product-image">
-<img src="{{asset('images/products/product-3.jpg')}}" alt="#">
-<div class="button">
-<a href="product-details.html" class="btn">View Details</a>
-</div>
-</div>
-<div class="product-info">
-<span class="category">Camera</span>
-<h4 class="title">
-<a href="product-grids.html">WiFi Security Camera</a>
-</h4>
-<ul class="review">
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><span>5.0 Review(s)</span></li>
-</ul>
-<!-- <div class="price">
+                    <div class="single-product">
+                        <div class="product-image">
+                            <img src="{{asset('images/products/product-3.jpg')}}" alt="#">
+                            <div class="button">
+                                <a href="product-details.html" class="btn">View Details</a>
+                            </div>
+                        </div>
+                        <div class="product-info">
+                            <span class="category">Camera</span>
+                            <h4 class="title">
+                                <a href="product-grids.html">WiFi Security Camera</a>
+                            </h4>
+                            <ul class="review">
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><span>5.0 Review(s)</span></li>
+                            </ul>
+                            <!-- <div class="price">
 <span>$399.00</span>
 </div> -->
-</div>
-</div>
+                        </div>
+                    </div>
 
-</div>
-<div class="col-lg-3 col-md-6 col-12">
+                </div>
+                <div class="col-lg-3 col-md-6 col-12">
 
-<div class="single-product">
-<div class="product-image">
-<img src="{{asset('images/products/product-4.jpg')}}" alt="#">
-<!-- <span class="new-tag">New</span> -->
-<div class="button">
-<a href="product-details.html" class="btn">View Details</a>
-</div>
-</div>
-<div class="product-info">
-<span class="category">Phones</span>
-<h4 class="title">
-<a href="product-grids.html">iphone 6x plus</a>
-</h4>
-<ul class="review">
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><span>5.0 Review(s)</span></li>
-</ul>
-<!-- <div class="price">
+                    <div class="single-product">
+                        <div class="product-image">
+                            <img src="{{asset('images/products/product-4.jpg')}}" alt="#">
+                            <!-- <span class="new-tag">New</span> -->
+                            <div class="button">
+                                <a href="product-details.html" class="btn">View Details</a>
+                            </div>
+                        </div>
+                        <div class="product-info">
+                            <span class="category">Phones</span>
+                            <h4 class="title">
+                                <a href="product-grids.html">iphone 6x plus</a>
+                            </h4>
+                            <ul class="review">
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><span>5.0 Review(s)</span></li>
+                            </ul>
+                            <!-- <div class="price">
 <span>$400.00</span>
 </div> -->
-</div>
-</div>
+                        </div>
+                    </div>
 
-</div>
-<div class="col-lg-3 col-md-6 col-12">
+                </div>
+                <div class="col-lg-3 col-md-6 col-12">
 
-<div class="single-product">
-<div class="product-image">
-<img src="{{asset('images/products/product-5.jpg')}}" alt="#">
-<div class="button">
-<a href="product-details.html" class="btn">View Details</a>
-</div>
-</div>
-<div class="product-info">
-<span class="category">Headphones</span>
-<h4 class="title">
-<a href="product-grids.html">Wireless Headphones</a>
-</h4>
-<ul class="review">
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><span>5.0 Review(s)</span></li>
-</ul>
-<!-- <div class="price">
+                    <div class="single-product">
+                        <div class="product-image">
+                            <img src="{{asset('images/products/product-5.jpg')}}" alt="#">
+                            <div class="button">
+                                <a href="product-details.html" class="btn">View Details</a>
+                            </div>
+                        </div>
+                        <div class="product-info">
+                            <span class="category">Headphones</span>
+                            <h4 class="title">
+                                <a href="product-grids.html">Wireless Headphones</a>
+                            </h4>
+                            <ul class="review">
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><span>5.0 Review(s)</span></li>
+                            </ul>
+                            <!-- <div class="price">
 <span>$350.00</span>
 </div> -->
-</div>
-</div>
+                        </div>
+                    </div>
 
-</div>
-<div class="col-lg-3 col-md-6 col-12">
+                </div>
+                <div class="col-lg-3 col-md-6 col-12">
 
-<div class="single-product">
-<div class="product-image">
-<img src="{{asset('images/products/product-6.jpg')}}" alt="#">
-<div class="button">
- <a href="product-details.html" class="btn">View Details</a>
-</div>
-</div>
-<div class="product-info">
-<span class="category">Speaker</span>
-<h4 class="title">
-<a href="product-grids.html">Mini Bluetooth Speaker</a>
-</h4>
-<ul class="review">
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star"></i></li>
-<li><span>4.0 Review(s)</span></li>
-</ul>
-<!-- <div class="price">
+                    <div class="single-product">
+                        <div class="product-image">
+                            <img src="{{asset('images/products/product-6.jpg')}}" alt="#">
+                            <div class="button">
+                                <a href="product-details.html" class="btn">View Details</a>
+                            </div>
+                        </div>
+                        <div class="product-info">
+                            <span class="category">Speaker</span>
+                            <h4 class="title">
+                                <a href="product-grids.html">Mini Bluetooth Speaker</a>
+                            </h4>
+                            <ul class="review">
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star"></i></li>
+                                <li><span>4.0 Review(s)</span></li>
+                            </ul>
+                            <!-- <div class="price">
 <span>$70.00</span>
 </div> -->
-</div>
-</div>
+                        </div>
+                    </div>
 
-</div>
-<div class="col-lg-3 col-md-6 col-12">
+                </div>
+                <div class="col-lg-3 col-md-6 col-12">
 
-<div class="single-product">
-<div class="product-image">
-<img src="{{asset('images/products/product-7.jpg')}}" alt="#">
-<!-- <span class="sale-tag">-50%</span> -->
-<div class="button">
-<a href="product-details.html" class="btn">View Details</a>
-</div>
-</div>
-<div class="product-info">
-<span class="category">Headphones</span>
-<h4 class="title">
-<a href="product-grids.html">PX7 Wireless Headphones</a>
-</h4>
-<ul class="review">
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star"></i></li>
-<li><span>4.0 Review(s)</span></li>
-</ul>
-<!-- <div class="price">
+                    <div class="single-product">
+                        <div class="product-image">
+                            <img src="{{asset('images/products/product-7.jpg')}}" alt="#">
+                            <!-- <span class="sale-tag">-50%</span> -->
+                            <div class="button">
+                                <a href="product-details.html" class="btn">View Details</a>
+                            </div>
+                        </div>
+                        <div class="product-info">
+                            <span class="category">Headphones</span>
+                            <h4 class="title">
+                                <a href="product-grids.html">PX7 Wireless Headphones</a>
+                            </h4>
+                            <ul class="review">
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star"></i></li>
+                                <li><span>4.0 Review(s)</span></li>
+                            </ul>
+                            <!-- <div class="price">
 <span>$100.00</span>
 <span class="discount-price">$200.00</span>
 </div> -->
-</div>
-</div>
+                        </div>
+                    </div>
 
-</div>
-<div class="col-lg-3 col-md-6 col-12">
+                </div>
+                <div class="col-lg-3 col-md-6 col-12">
 
-<div class="single-product">
-<div class="product-image">
-<img src="{{asset('images/products/product-8.jpg')}}" alt="#">
-<div class="button">
-<a href="product-details.html" class="btn">View Details</a>
-</div>
-</div>
-<div class="product-info">
-<span class="category">Laptop</span>
-<h4 class="title">
-<a href="product-grids.html">Apple MacBook Air</a>
-</h4>
-<ul class="review">
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
- <li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><i class="lni lni-star-filled"></i></li>
-<li><span>5.0 Review(s)</span></li>
-</ul>
-<!-- <div class="price">
+                    <div class="single-product">
+                        <div class="product-image">
+                            <img src="{{asset('images/products/product-8.jpg')}}" alt="#">
+                            <div class="button">
+                                <a href="product-details.html" class="btn">View Details</a>
+                            </div>
+                        </div>
+                        <div class="product-info">
+                            <span class="category">Laptop</span>
+                            <h4 class="title">
+                                <a href="product-grids.html">Apple MacBook Air</a>
+                            </h4>
+                            <ul class="review">
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><i class="lni lni-star-filled"></i></li>
+                                <li><span>5.0 Review(s)</span></li>
+                            </ul>
+                            <!-- <div class="price">
 <span>$899.00</span>
 </div> -->
-</div>
-</div>
+                        </div>
+                    </div>
 
-</div>
-</div>
-</div>
-</section>
+                </div>
+            </div>
+        </div>
+    </section>
 
 
-<!-- <section class="banner section">
+    <!-- <section class="banner section">
 <div class="container">
 <div class="row">
 <div class="col-lg-6 col-md-6 col-12">
@@ -517,7 +512,7 @@ incididunt ut labore.</p>
 </section> -->
 
 
-<!-- <section class="special-offer section">
+    <!-- <section class="special-offer section">
 <div class="container">
 <div class="row">
 <div class="col-12">
@@ -689,10 +684,10 @@ eiusmod tempor labores.</p>
 </section> -->
 
 
-<section class="home-product-list section">
-<div class="container">
-<div class="row">
-<!-- <div class="col-lg-4 col-md-4 col-12 custom-responsive-margin">
+    <section class="home-product-list section">
+        <div class="container">
+            <div class="row">
+                <!-- <div class="col-lg-4 col-md-4 col-12 custom-responsive-margin">
 <h4 class="list-title">Best Sellers</h4>
 
 <div class="single-list">
@@ -734,135 +729,135 @@ eiusmod tempor labores.</p>
 </div>
 
 </div> -->
-<div class="col-lg-6 col-md-6 col-12 custom-responsive-margin">
-<h4 class="list-title">New Bussinesses</h4>
+                <div class="col-lg-6 col-md-6 col-12 custom-responsive-margin">
+                    <h4 class="list-title">New Bussinesses</h4>
 
-<div class="single-list">
-<!-- <div class="list-image">
+                    <div class="single-list">
+                        <!-- <div class="list-image">
 <a href="product-grids.html"><img src="{{asset('images/home-product-list/04.jpg')}}" alt="#"></a>
 </div> -->
-<div class="list-info">
-<h3>
-<a href="product-grids.html">iPhone X 256 GB Space Gray</a>
-</h3>
-<!-- <span>$1150.00</span> -->
-</div>
-</div>
+                        <div class="list-info">
+                            <h3>
+                                <a href="product-grids.html">iPhone X 256 GB Space Gray</a>
+                            </h3>
+                            <!-- <span>$1150.00</span> -->
+                        </div>
+                    </div>
 
 
-<div class="single-list">
-<!-- <div class="list-image">
+                    <div class="single-list">
+                        <!-- <div class="list-image">
 <a href="product-grids.html"><img src="{{asset('images/home-product-list/05.jpg')}}" alt="#"></a>
 </div> -->
-<div class="list-info">
-<h3>
-<a href="product-grids.html">Canon EOS M50 Mirrorless Camera</a>
-</h3>
-<!-- <span>$950.00</span> -->
-</div>
-</div>
+                        <div class="list-info">
+                            <h3>
+                                <a href="product-grids.html">Canon EOS M50 Mirrorless Camera</a>
+                            </h3>
+                            <!-- <span>$950.00</span> -->
+                        </div>
+                    </div>
 
 
-<div class="single-list">
-<!-- <div class="list-image">
+                    <div class="single-list">
+                        <!-- <div class="list-image">
 <a href="product-grids.html"><img src="{{asset('images/home-product-list/06.jpg')}}" alt="#"></a>
 </div> -->
-<div class="list-info">
-<h3>
-<a href="product-grids.html">Microsoft Xbox One S</a>
-</h3>
-<!-- <span>$298.00</span> -->
-</div>
-</div>
+                        <div class="list-info">
+                            <h3>
+                                <a href="product-grids.html">Microsoft Xbox One S</a>
+                            </h3>
+                            <!-- <span>$298.00</span> -->
+                        </div>
+                    </div>
 
-</div>
-<div class="col-lg-6 col-md-6 col-12">
-<h4 class="list-title">Top Businesses</h4>
+                </div>
+                <div class="col-lg-6 col-md-6 col-12">
+                    <h4 class="list-title">Top Businesses</h4>
 
-<div class="single-list">
-<!-- <div class="list-image">
+                    <div class="single-list">
+                        <!-- <div class="list-image">
 <a href="product-grids.html"><img src="{{asset('images/home-product-list/07.jpg')}}" alt="#"></a>
 </div> -->
-<div class="list-info">
-<h3>
-<a href="product-grids.html">Samsung Gear 360 VR Camera</a>
-</h3>
-<!-- <span>$68.00</span> -->
-</div>
-</div>
+                        <div class="list-info">
+                            <h3>
+                                <a href="product-grids.html">Samsung Gear 360 VR Camera</a>
+                            </h3>
+                            <!-- <span>$68.00</span> -->
+                        </div>
+                    </div>
 
 
-<div class="single-list">
-<!-- <div class="list-image">
+                    <div class="single-list">
+                        <!-- <div class="list-image">
 <a href="product-grids.html"><img src="{{asset('images/home-product-list/08.jpg')}}" alt="#"></a>
 </div> -->
-<div class="list-info">
-<h3>
-<a href="product-grids.html">Samsung Galaxy S9+ 64 GB</a>
-</h3>
-<!-- <span>$840.00</span> -->
-</div>
-</div>
+                        <div class="list-info">
+                            <h3>
+                                <a href="product-grids.html">Samsung Galaxy S9+ 64 GB</a>
+                            </h3>
+                            <!-- <span>$840.00</span> -->
+                        </div>
+                    </div>
 
 
-<div class="single-list">
-<!-- <div class="list-image">
+                    <div class="single-list">
+                        <!-- <div class="list-image">
 <a href="product-grids.html"><img src="{{asset('images/home-product-list/09.jpg')}}" alt="#"></a>
 </div> -->
-<div class="list-info">
-<h3>
-<a href="product-grids.html">Zeus Bluetooth Headphones</a>
-</h3>
-<!-- <span>$28.00</span> -->
-</div>
-</div>
+                        <div class="list-info">
+                            <h3>
+                                <a href="product-grids.html">Zeus Bluetooth Headphones</a>
+                            </h3>
+                            <!-- <span>$28.00</span> -->
+                        </div>
+                    </div>
 
-</div>
-</div>
-</div>
-</section>
-
-
-<div class="brands">
-<div class="container">
-<div class="row">
-<div class="col-lg-6 offset-lg-3 col-md-12 col-12">
-<h2 class="title">Popular Brands</h2>
-</div>
-</div>
-<div class="brands-logo-wrapper">
-<div class="brands-logo-carousel d-flex align-items-center justify-content-between">
-<div class="brand-logo">
-<img src="{{asset('images/brands/01.png')}}" alt="#">
-</div>
-<div class="brand-logo">
-<img src="{{asset('images/brands/02.png')}}" alt="#">
-</div>
-<div class="brand-logo">
-<img src="{{asset('images/brands/03.png')}}" alt="#">
-</div>
-<div class="brand-logo">
-<img src="{{asset('images/brands/04.png')}}" alt="#">
-</div>
-<div class="brand-logo">
-<img src="{{asset('images/brands/05.png')}}" alt="#">
-</div>
-<div class="brand-logo">
-<img src="{{asset('images/brands/06.png')}}" alt="#">
-</div>
-<div class="brand-logo">
-<img src="{{asset('images/brands/03.png')}}" alt="#">
-</div>
-<div class="brand-logo">
- <img src="{{asset('images/brands/04.png')}}" alt="#">
-</div>
-</div>
-</div>
-</div>
-</div>
+                </div>
+            </div>
+        </div>
+    </section>
 
 
-<!-- <section class="blog-section section">
+    <div class="brands">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 offset-lg-3 col-md-12 col-12">
+                    <h2 class="title">Popular Brands</h2>
+                </div>
+            </div>
+            <div class="brands-logo-wrapper">
+                <div class="brands-logo-carousel d-flex align-items-center justify-content-between">
+                    <div class="brand-logo">
+                        <img src="{{asset('images/brands/01.png')}}" alt="#">
+                    </div>
+                    <div class="brand-logo">
+                        <img src="{{asset('images/brands/02.png')}}" alt="#">
+                    </div>
+                    <div class="brand-logo">
+                        <img src="{{asset('images/brands/03.png')}}" alt="#">
+                    </div>
+                    <div class="brand-logo">
+                        <img src="{{asset('images/brands/04.png')}}" alt="#">
+                    </div>
+                    <div class="brand-logo">
+                        <img src="{{asset('images/brands/05.png')}}" alt="#">
+                    </div>
+                    <div class="brand-logo">
+                        <img src="{{asset('images/brands/06.png')}}" alt="#">
+                    </div>
+                    <div class="brand-logo">
+                        <img src="{{asset('images/brands/03.png')}}" alt="#">
+                    </div>
+                    <div class="brand-logo">
+                        <img src="{{asset('images/brands/04.png')}}" alt="#">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- <section class="blog-section section">
 <div class="container">
 <div class="row">
 <div class="col-12">
@@ -946,7 +941,7 @@ incididunt.</p>
 </section> -->
 
 
-<!-- <section class="shipping-info">
+    <!-- <section class="shipping-info">
 <div class="container">
 <ul>
 
@@ -993,18 +988,19 @@ incididunt.</p>
 </div>
 </section> -->
 
-@include('masterlayout.footer');
+    @include('masterlayout.footer');
 
-<!-- scroll up button-->
-<a href="#" class="scroll-top"  style="background-color: #292b2c;">
-<i class="lni lni-chevron-up"></i>
-</a>
-<!--end scroll up button -->
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="{{asset('js/bootstrap.min.js')}}"></script>
-<script src="{{asset('js/tiny-slider.js')}} "></script>
-<script src="{{asset('js/glightbox.min.js')}} "></script>
-<script src="{{asset('js/main.js')}}"></script>
-<script type="text/javascript">
+    <!-- scroll up button-->
+    <a href="#" class="scroll-top" style="background-color: #292b2c;">
+        <i class="lni lni-chevron-up"></i>
+    </a>
+    <!--end scroll up button -->
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script src="{{asset('js/bootstrap.min.js')}}"></script>
+    <script src="{{asset('js/tiny-slider.js')}} "></script>
+    <script src="{{asset('js/glightbox.min.js')}} "></script>
+    <script src="{{asset('js/main.js')}}"></script>
+    <script type="text/javascript">
         //========= Hero Slider 
         tns({
             container: '.hero-slider',
@@ -1043,9 +1039,8 @@ incididunt.</p>
                 }
             }
         });
-
     </script>
-<script>
+    <script>
         const finaleDate = new Date("February 15, 2023 00:00:00").getTime();
 
         const timer = () => {
@@ -1077,4 +1072,5 @@ incididunt.</p>
         setInterval(timer, 1000);
     </script>
 </body>
+
 </html>

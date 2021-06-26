@@ -2495,6 +2495,7 @@ ol {
 }
 .hero-area .hero-slider .single-slider {
     background-size: cover;
+    width: 100%;
     background-position: center;
     background-repeat: no-repeat;
     height: 500px;
