@@ -32,3 +32,7 @@ Route::get('/index', function () {
 Route::get('/register', function () {
     return view('register');
 });
+
+Route::get('/details', function () {
+    return view('details');
+});
