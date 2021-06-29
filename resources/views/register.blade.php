@@ -45,7 +45,7 @@
 </div>
 <div class="col-lg-6 col-md-6 col-12">
 <ul class="breadcrumb-nav">
-<li><a href="index-2.html"><i class="lni lni-home"></i> Home</a></li>
+<li><a href="http://store-locator.test/index"><i class="lni lni-home"></i> Home</a></li>
 <li>Registration</li>
 </ul>
 </div>
@@ -64,11 +64,14 @@
 </div>
 <div>
 <div class="form-group">
-<input class="cols-lg-5" type="radio" id="reg-type" name="radio1" value="Business" required> Business </input>
-<input class="cols-lg-5" type="radio" id="reg-type" name="radio1" value="Customer" required> Customer </input>
+<input class="cols-lg-5" type="radio" id="business_radio" name="radio1" value="Business" required> Business </input>&nbsp;
+<input class="cols-lg-5" type="radio" id="customer_radio" name="radio1" value="Customer" required> Customer </input>
+<!-- <button>Business</button>
+<button>customer</button> -->
 </div>
 </div>
-<form class="row" method="post">
+<!-- Business form start -->
+<form class="row" id="business" method="post">
 <div class="col-sm-6">
 <div class="form-group">
 <label for="reg-bn">Business Name</label>
@@ -145,9 +148,42 @@
 <div class="button">
 <button class="btn" type="reset">Reset</button>
 </div>
-<p class="outer-link">Already have an account? <a href="login.html">Login Now</a>
+<p class="outer-link">Already have an account? <a href="http://store-locator.test/login">Login Now</a>
 </p>
 </form>
+<!-- business form end  -->
+
+<!-- customer form start -->
+<form class="row" id="customer" method="POST">
+<div class="col-sm-6">
+<div class="form-group">
+<label for="reg-email">E-mail Address</label>
+<input class="form-control" type="email" id="reg-email" required>
+</div>
+</div>
+<div class="col-sm-6">
+<div class="form-group">
+<label for="reg-pass">Password</label>
+<input class="form-control" type="password" id="reg-pass" required>
+</div>
+</div>
+<div class="col-sm-6">
+<div class="form-group">
+<label for="reg-pass-confirm">Confirm Password</label>
+<input class="form-control" type="password" id="reg-pass-confirm" required>
+</div>
+</div>
+<div class="button">
+<button class="btn" type="submit">Register</button> 
+</div>
+<div class="button">
+<button class="btn" type="reset">Reset</button>
+</div>
+<p class="outer-link">Already have an account? <a href="http://store-locator.test/login">Login Now</a>
+</p>
+</form>
+<!-- customer form end  -->
+
 </div>
 </div>
 </div>
@@ -237,5 +273,24 @@
         timer();
         setInterval(timer, 1000);
     </script>
+
+<script 
+src="https://code.jquery.com/jquery-3.6.0.min.js" 
+integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" 
+crossorigin="anonymous"></script>
+
+<script>
+      $(document).ready(function(){
+          $('#customer').hide();
+          $('#business_radio').on('click',function(){
+            $('#business').show();
+            $('#customer').hide();
+          });
+        $('#customer_radio').on('click', function(){
+            $('#business').hide();
+            $('#customer').show();
+        });
+    });  
+</script>
 </body>
 </html>

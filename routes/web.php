@@ -48,3 +48,7 @@ Route::get('/businesses', function () {
     return view('businesses');
 });
 
+Route::get('/login', function () {
+    return view('login');
+});
+

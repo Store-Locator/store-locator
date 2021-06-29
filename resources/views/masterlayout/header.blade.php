@@ -21,7 +21,7 @@
                         </div>
                         <ul class="user-login">
                             <li>
-                                <a href="login.html">Sign In</a>
+                                <a href="http://store-locator.test/login">Sign In</a>
                             </li>
                             <li>
                                 <a href="http://store-locator.test/register#">Register</a>

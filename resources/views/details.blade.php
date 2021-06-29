@@ -48,8 +48,8 @@
 </div>
 <div class="col-lg-6 col-md-6 col-12">
 <ul class="breadcrumb-nav">
-<li><a href="index-2.html"><i class="lni lni-home"></i> Home</a></li>
-<li><a href="index-2.html">Shop</a></li>
+<li><a href="http://store-locator.test/index"><i class="lni lni-home"></i> Home</a></li>
+<li><a href="http://store-locator.test/businesses">Businesses</a></li>
 <li>Details</Details></li>
 </ul>
 </div>
