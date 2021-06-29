@@ -1244,6 +1244,20 @@ ol {
     margin-right: 5px;
     font-size: 16px;
 }
+    /* user hover */
+.header .topbar .top-end .user a {
+    color:white;
+    display: inline-block;
+    margin-right: 5px;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.header .topbar .top-end .user a:hover {
+    color:#0167f3;
+
+}
+     /* user hover end */
 .header .topbar .top-end .user-login {
     display: inline-block;
     white-space: nowrap;

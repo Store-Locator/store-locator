@@ -15,9 +15,11 @@
                 </div>
                 <div class="col-lg-4 col-md-4 col-12">
                     <div class="top-end">
-                        <div class="user">
+                        <div class="user" >
+                        <a href="#" >
                             <i class="lni lni-user"></i>
                             Hello
+                        </a>
                         </div>
                         <ul class="user-login">
                             <li>
