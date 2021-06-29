@@ -36,3 +36,11 @@ Route::get('/register', function () {
 Route::get('/details', function () {
     return view('details');
 });
+Route::get('/about-us', function () {
+    return view('about-us');
+});
+
+Route::get('/contact', function () {
+    return view('contact');
+});
+

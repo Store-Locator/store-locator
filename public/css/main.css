@@ -1657,7 +1657,10 @@ ol {
 }
 @media (max-width: 767px) {
     .header .main-menu-search {
-        display: none;
+        width: 50%;
+        /* float: right; */
+        margin-left: 22%;
+        margin-top: -8%;
     }
 }
 .header .main-menu-search .navbar-search {
@@ -1962,12 +1965,32 @@ ol {
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .header .mega-category-menu {
-        display: none;
+        position: relative;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    border-right: 1px solid #eee;
+    margin-right: 40px;
+    padding-right: 112px;
+    cursor: pointer;
     }
 }
 @media (max-width: 767px) {
     .header .mega-category-menu {
-        display: none;
+        position: relative;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    border-right: 1px solid #eee;
+    margin-right: 40px;
+    padding-right: 112px;
+    cursor: pointer;
     }
 }
 .header .mega-category-menu .cat-button {
@@ -2076,8 +2099,7 @@ ol {
 }
 @media (max-width: 767px) {
     .header .nav-social {
-        position: relative;
-        margin-top: -50px;
+        display: none;
     }
 }
 .header .nav-social .title {
@@ -2447,7 +2469,7 @@ ol {
     z-index: 2;
     color: #fff;
     font-size: 17px;
-    background: #0167f3;
+    background: #373838;
     border: none;
     padding: 2px 5px;
     border-radius: 4px;
@@ -2460,7 +2482,7 @@ ol {
     border-radius: 0;
 }
 .hero-area .tns-controls button:hover {
-    background-color: #081828;
+    background-color: #020508;
     color: #fff;
 }
 .hero-area .tns-controls button:first-child {
@@ -2473,6 +2495,7 @@ ol {
 }
 .hero-area .hero-slider .single-slider {
     background-size: cover;
+    width: 100%;
     background-position: center;
     background-repeat: no-repeat;
     height: 500px;
@@ -6561,6 +6584,7 @@ blockquote span {
 .footer {
     background-color: #081828;
     position: relative;
+    margin-bottom: -10%;
 }
 .footer .footer-top .inner-content {
     padding: 60px 0;
