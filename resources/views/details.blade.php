@@ -378,8 +378,9 @@ tempor...</p>
 </div>
 </div>
 
+@include('masterlayout.footer')
 
-<footer class="footer">
+<!-- <footer class="footer">
 
 <div class="footer-top">
 <div class="container">
@@ -521,7 +522,7 @@ Subscribe to our Newsletter
 </div>
 </div>
 
-</footer>
+</footer> -->
 
 
 <a href="#" class="scroll-top">
