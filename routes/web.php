@@ -44,3 +44,7 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
+Route::get('/businesses', function () {
+    return view('businesses');
+});
+
