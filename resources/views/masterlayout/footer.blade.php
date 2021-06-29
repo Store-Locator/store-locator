@@ -60,7 +60,7 @@ Subscribe to our Newsletter
 <div class="single-footer our-app">
 <h3>Our Mobile App</h3>
 <ul class="app-btn">
-<li>We are developing our android And ios App.Please wait till then.</li>
+<li>We are developing our android And ios App.<br>Please wait till then.</li>
 <li>
 <a href="javascript:void(0)">
 <i class="lni lni-apple"></i>
