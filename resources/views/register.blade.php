@@ -98,7 +98,7 @@
 </div>
 <div class="col-sm-6">
 <div class="form-group">
-<label for="reg-photo">Photograph(s)</label>
+<label for="reg-photo">Business Photograph(s)</label>
 <input class="form-control" type="file" id="reg-photo1" required>
 <input class="form-control" type="file" id="reg-photo2" required>
 <input class="form-control" type="file" id="reg-photo3" required>
