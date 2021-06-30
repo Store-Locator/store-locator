@@ -143,35 +143,35 @@ Apple Watch Series 6</a></h4>
                     <div class="mega-category-menu">
                         <span class="cat-button"><i class="lni lni-menu"></i>Categories</span>
                         <ul class="sub-category">
-                            <li><a href="product-grids.html">Electronics and Electrician
+                            <li><a href="http://store-locator.test/businesses">Electronics and Electrician
                                     <!-- <i class="lni lni-chevron-right"></i> -->
                                 </a>
                                 <!-- <ul class="inner-sub-category">
-<li><a href="product-grids.html">Digital Cameras</a></li>
-<li><a href="product-grids.html">Camcorders</a></li>
-<li><a href="product-grids.html">Camera Drones</a></li>
-<li><a href="product-grids.html">Smart Watches</a></li>
-<li><a href="product-grids.html">Headphones</a></li>
-<li><a href="product-grids.html">MP3 Players</a></li>
-<li><a href="product-grids.html">Microphones</a></li>
-<li><a href="product-grids.html">Chargers</a></li>
-<li><a href="product-grids.html">Batteries</a></li>
-<li><a href="product-grids.html">Cables & Adapters</a></li>
+<li><a href="http://store-locator.test/businesses">Digital Cameras</a></li>
+<li><a href="http://store-locator.test/businesses">Camcorders</a></li>
+<li><a href="http://store-locator.test/businesses">Camera Drones</a></li>
+<li><a href="http://store-locator.test/businesses">Smart Watches</a></li>
+<li><a href="http://store-locator.test/businesses">Headphones</a></li>
+<li><a href="http://store-locator.test/businesses">MP3 Players</a></li>
+<li><a href="http://store-locator.test/businesses">Microphones</a></li>
+<li><a href="http://store-locator.test/businesses">Chargers</a></li>
+<li><a href="http://store-locator.test/businesses">Batteries</a></li>
+<li><a href="http://store-locator.test/businesses">Cables & Adapters</a></li>
 </ul> -->
                             </li>
-                            <li><a href="product-grids.html">Automobiles and Mechanics</a></li>
-                            <li><a href="product-grids.html">Grocery</a></li>
-                            <li><a href="product-grids.html">Hardware and Plumbing</a></li>
-                            <li><a href="product-grids.html">Pharmacy</a></li>
-                            <li><a href="product-grids.html">Furniture and Carpentry</a></li>
-                            <!-- <li><a href="product-grids.html">top 100 offer</a></li>
-<li><a href="product-grids.html">sunglass</a></li>
-<li><a href="product-grids.html">watch</a></li>
-<li><a href="product-grids.html">man’s product</a></li>
-<li><a href="product-grids.html">Home Audio & Theater</a></li>
-<li><a href="product-grids.html">Computers & Tablets </a></li>
-<li><a href="product-grids.html">Video Games </a></li>
-<li><a href="product-grids.html">Home Appliances </a></li>
+                            <li><a href="http://store-locator.test/businesses">Automobiles and Mechanics</a></li>
+                            <li><a href="http://store-locator.test/businesses">Grocery</a></li>
+                            <li><a href="http://store-locator.test/businesses">Hardware and Plumbing</a></li>
+                            <li><a href="http://store-locator.test/businesses">Pharmacy</a></li>
+                            <li><a href="http://store-locator.test/businesses">Furniture and Carpentry</a></li>
+                            <!-- <li><a href="http://store-locator.test/businesses">top 100 offer</a></li>
+<li><a href="http://store-locator.test/businesses">sunglass</a></li>
+<li><a href="http://store-locator.test/businesses">watch</a></li>
+<li><a href="http://store-locator.test/businesses">man’s product</a></li>
+<li><a href="http://store-locator.test/businesses">Home Audio & Theater</a></li>
+<li><a href="http://store-locator.test/businesses">Computers & Tablets </a></li>
+<li><a href="http://store-locator.test/businesses">Video Games </a></li>
+<li><a href="http://store-locator.test/businesses">Home Appliances </a></li>
 <li><a class="dropdown-item" href="#">Automobiles</a></li>
 <li><a class="dropdown-item" href="#">Grocery</a></li>
 <li><a class="dropdown-item" href="#">Electronics</a></li>
@@ -250,7 +250,7 @@ Apple Watch Series 6</a></h4>
                     <!-- <li class="nav-item">
 <a class="dd-menu collapsed" href="javascript:void(0)" data-bs-toggle="collapse" data-bs-target="#submenu-1-3" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">Shop</a>
 <ul class="sub-menu collapse" id="submenu-1-3">
-<li class="nav-item"><a href="product-grids.html">Shop Grid</a></li>
+<li class="nav-item"><a href="http://store-locator.test/businesses">Shop Grid</a></li>
 <li class="nav-item"><a href="product-list.html">Shop List</a></li>
 <li class="nav-item"><a href="product-details.html">shop Single</a></li>
 <li class="nav-item"><a href="cart.html">Cart</a></li>

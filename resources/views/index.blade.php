@@ -53,7 +53,7 @@ M75 Sport Watch
 labore dolore magna aliqua.</p>
 <h3><span>Now Only</span> $320.99</h3>
 <div class="button">
-<a href="product-grids.html" class="btn">Shop Now</a>
+<a href="http://store-locator.test/details" class="btn">Shop Now</a>
 </div> -->
 </div>
 </div>
@@ -68,7 +68,7 @@ Get the Best Deal on CCTV Camera
 labore dolore magna aliqua.</p>
 <h3><span>Combo Only:</span> $590.00</h3>
 <div class="button">
-<a href="product-grids.html" class="btn">Shop Now</a>
+<a href="http://store-locator.test/details" class="btn">Shop Now</a>
 </div>
 </div> -->
 </div>
@@ -106,7 +106,7 @@ iPhone 12 Pro Max
 <h2>Weekly Sale!</h2>
  <p>Saving up to 50% off all online store items this week.</p>
 <div class="button">
-<a class="btn" href="product-grids.html">Shop Now</a>
+<a class="btn" href="http://store-locator.test/details">Shop Now</a>
 </div>
 </div>
 </div>
@@ -135,11 +135,11 @@ iPhone 12 Pro Max
 <div class="single-category" style="border-color: black;background-color: #292b2c;">
 <h3 class="heading" style="color: white;">Electronics and Electrician</h3>
 <ul>
-<li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
-<li><a href="product-grids.html" style="color: white;">View All</a></li>
+<li><a href="http://store-locator.test/details" >Store - 1</a></li>
+<li><a href="http://store-locator.test/details" >Store - 2</a></li>
+<li><a href="http://store-locator.test/details" >Store - 3</a></li>
+<li><a href="http://store-locator.test/details" >Store - 4</a></li>
+<li><a href="http://store-locator.test/businesses" >View All</a></li>
 </ul>
 <div class="images">
 <!-- <img src="{{asset('images/featured-categories/pic1.png')}}" alt="#"> -->
@@ -152,11 +152,11 @@ iPhone 12 Pro Max
 <div class="single-category" style="border-color: black;background-color:#292b2c; ">
 <h3 class="heading" style="color: white;">Automobiles and Mechanics</h3>
 <ul>
-<li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
-<li><a href="product-grids.html" style="color: white;">View All</a></li>
+<li><a href="http://store-locator.test/details" >Store - 1</a></li>
+<li><a href="http://store-locator.test/details" >Store - 2</a></li>
+<li><a href="http://store-locator.test/details" >Store - 3</a></li>
+<li><a href="http://store-locator.test/details" >Store - 4</a></li>
+<li><a href="http://store-locator.test/businesses" >View All</a></li>
 </ul>
 <div class="images">
 <!-- <img src="{{asset('images/featured-categories/pic2.png')}}" alt="#"> -->
@@ -169,11 +169,11 @@ iPhone 12 Pro Max
 <div class="single-category" style="border-color: black;background-color: #292b2c; ">
 <h3 class="heading" style="color: white;">Grocery</h3>
 <ul>
-<li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
-<li><a href="product-grids.html" style="color: white;">View All</a></li>
+<li><a href="http://store-locator.test/details" >Store - 1</a></li>
+<li><a href="http://store-locator.test/details" >Store - 2</a></li>
+<li><a href="http://store-locator.test/details" >Store - 3</a></li>
+<li><a href="http://store-locator.test/details" >Store - 4</a></li>
+<li><a href="http://store-locator.test/businesses" >View All</a></li>
 </ul>
 <div class="images">
 <!-- <img src="{{asset('images/featured-categories/pic3.png')}}" alt="#"> -->
@@ -186,11 +186,11 @@ iPhone 12 Pro Max
 <div class="single-category" style="border-color: black;background-color: #292b2c; ">
 <h3 class="heading" style="color: white;">Hardware and Plumbing</h3>
 <ul>
-<li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
-<li><a href="product-grids.html" style="color: white;">View All</a></li>
+<li><a href="http://store-locator.test/details" >Store - 1</a></li>
+<li><a href="http://store-locator.test/details" >Store - 2</a></li>
+<li><a href="http://store-locator.test/details" >Store - 3</a></li>
+<li><a href="http://store-locator.test/details" >Store - 4</a></li>
+<li><a href="http://store-locator.test/businesses" >View All</a></li>
 </ul>
 <div class="images">
 <!-- <img src="{{asset('images/featured-categories/fetured-item-4.png')}}" alt="#"> -->
@@ -203,11 +203,11 @@ iPhone 12 Pro Max
 <div class="single-category" style="border-color: black;background-color: #292b2c; ">
 <h3 class="heading" style="color: white;">Pharmacy</h3>
 <ul>
-<li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
-<li><a href="product-grids.html" style="color: white;">View All</a></li>
+<li><a href="http://store-locator.test/details" >Store - 1</a></li>
+<li><a href="http://store-locator.test/details" >Store - 2</a></li>
+<li><a href="http://store-locator.test/details" >Store - 3</a></li>
+<li><a href="http://store-locator.test/details" >Store - 4</a></li>
+<li><a href="http://store-locator.test/businesses" >View All</a></li>
 </ul>
 <div class="images">
 <!-- <img src="{{asset('images/featured-categories/fetured-item-5.png')}}" alt="#"> -->
@@ -220,11 +220,11 @@ iPhone 12 Pro Max
 <div class="single-category" style="border-color: black;background-color: #292b2c; ">
 <h3 class="heading" style="color: white;">Furniture and Carpentry</h3>
 <ul>
-<li><a href="product-grids.html" style="color: white;">Store - 1</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 2</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 3</a></li>
-<li><a href="product-grids.html" style="color: white;">Store - 4</a></li>
-<li><a href="product-grids.html" style="color: white;">View All</a></li>
+<li><a href="http://store-locator.test/details" >Store - 1</a></li>
+<li><a href="http://store-locator.test/details" >Store - 2</a></li>
+<li><a href="http://store-locator.test/details" >Store - 3</a></li>
+<li><a href="http://store-locator.test/details" >Store - 4</a></li>
+<li><a href="http://store-locator.test/businesses" >View All</a></li>
 </ul>
 <div class="images">
 <!-- <img src="{{asset('images/featured-categories/fetured-item-6.png')}}" alt="#"> -->
@@ -243,8 +243,7 @@ iPhone 12 Pro Max
 <div class="col-12">
 <div class="section-title">
 <h2>Trending Business</h2>
-<p>There are many variations of passages of Lorem Ipsum available, but the majority have
-suffered alteration in some form.</p>
+<p>Trending and popular businesses .</p>
 </div>
 </div>
 </div>
@@ -255,7 +254,7 @@ suffered alteration in some form.</p>
 <div class="product-image">
 <img src="{{asset('images/products/product-1.jpg')}}" alt="#">
 <div class="button">
-<a href="product-details.html" class="btn">
+<a href="http://store-locator.test/details" class="btn">
 <!-- <i class="lni lni-cart"> -->
 </i>View Details</a>
 </div>
@@ -263,7 +262,7 @@ suffered alteration in some form.</p>
  <div class="product-info">
 <span class="category">Watches</span>
 <h4 class="title">
-<a href="product-grids.html">Xiaomi Mi Band 5</a>
+<a href="http://store-locator.test/details">Xiaomi Mi Band 5</a>
 </h4>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
@@ -287,13 +286,13 @@ suffered alteration in some form.</p>
 <img src="{{asset('images/products/product-2.jpg')}}" alt="#">
 <!-- <span class="sale-tag">-25%</span> -->
 <div class="button">
-<a href="product-details.html" class="btn">View Details</a>
+<a href="http://store-locator.test/details" class="btn">View Details</a>
 </div>
 </div>
 <div class="product-info">
 <span class="category">Speaker</span>
 <h4 class="title">
-<a href="product-grids.html">Big Power Sound Speaker</a>
+<a href="http://store-locator.test/details">Big Power Sound Speaker</a>
 </h4>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
@@ -317,13 +316,13 @@ suffered alteration in some form.</p>
 <div class="product-image">
 <img src="{{asset('images/products/product-3.jpg')}}" alt="#">
 <div class="button">
-<a href="product-details.html" class="btn">View Details</a>
+<a href="http://store-locator.test/details" class="btn">View Details</a>
 </div>
 </div>
 <div class="product-info">
 <span class="category">Camera</span>
 <h4 class="title">
-<a href="product-grids.html">WiFi Security Camera</a>
+<a href="http://store-locator.test/details">WiFi Security Camera</a>
 </h4>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
@@ -347,13 +346,13 @@ suffered alteration in some form.</p>
 <img src="{{asset('images/products/product-4.jpg')}}" alt="#">
 <!-- <span class="new-tag">New</span> -->
 <div class="button">
-<a href="product-details.html" class="btn">View Details</a>
+<a href="http://store-locator.test/details" class="btn">View Details</a>
 </div>
 </div>
 <div class="product-info">
 <span class="category">Phones</span>
 <h4 class="title">
-<a href="product-grids.html">iphone 6x plus</a>
+<a href="http://store-locator.test/details">iphone 6x plus</a>
 </h4>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
@@ -382,7 +381,7 @@ suffered alteration in some form.</p>
 <div class="product-info">
 <span class="category">Headphones</span>
 <h4 class="title">
-<a href="product-grids.html">Wireless Headphones</a>
+<a href="http://store-locator.test/details">Wireless Headphones</a>
 </h4>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
@@ -405,13 +404,13 @@ suffered alteration in some form.</p>
 <div class="product-image">
 <img src="{{asset('images/products/product-6.jpg')}}" alt="#">
 <div class="button">
- <a href="product-details.html" class="btn">View Details</a>
+ <a href="http://store-locator.test/details" class="btn">View Details</a>
 </div>
 </div>
 <div class="product-info">
 <span class="category">Speaker</span>
 <h4 class="title">
-<a href="product-grids.html">Mini Bluetooth Speaker</a>
+<a href="http://store-locator.test/details">Mini Bluetooth Speaker</a>
 </h4>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
@@ -435,13 +434,13 @@ suffered alteration in some form.</p>
 <img src="{{asset('images/products/product-7.jpg')}}" alt="#">
 <!-- <span class="sale-tag">-50%</span> -->
 <div class="button">
-<a href="product-details.html" class="btn">View Details</a>
+<a href="http://store-locator.test/details" class="btn">View Details</a>
 </div>
 </div>
 <div class="product-info">
 <span class="category">Headphones</span>
 <h4 class="title">
-<a href="product-grids.html">PX7 Wireless Headphones</a>
+<a href="http://store-locator.test/details">PX7 Wireless Headphones</a>
 </h4>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
@@ -465,13 +464,13 @@ suffered alteration in some form.</p>
 <div class="product-image">
 <img src="{{asset('images/products/product-8.jpg')}}" alt="#">
 <div class="button">
-<a href="product-details.html" class="btn">View Details</a>
+<a href="http://store-locator.test/details" class="btn">View Details</a>
 </div>
 </div>
 <div class="product-info">
 <span class="category">Laptop</span>
 <h4 class="title">
-<a href="product-grids.html">Apple MacBook Air</a>
+<a href="http://store-locator.test/details">Apple MacBook Air</a>
 </h4>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
@@ -502,7 +501,7 @@ suffered alteration in some form.</p>
 <h2>Smart Watch 2.0</h2>
 <p>Space Gray Aluminum Case with <br>Black/Volt Real Sport Band </p>
 <div class="button">
-<a href="product-grids.html" class="btn">View Details</a>
+<a href="http://store-locator.test/details" class="btn">View Details</a>
 </div>
 </div>
 </div>
@@ -514,7 +513,7 @@ suffered alteration in some form.</p>
 <p>Lorem ipsum dolor sit amet, <br>eiusmod tempor
 incididunt ut labore.</p>
 <div class="button">
-<a href="product-grids.html" class="btn">Shop Now</a>
+<a href="http://store-locator.test/details" class="btn">Shop Now</a>
 </div>
 </div>
 </div>
@@ -544,14 +543,14 @@ suffered alteration in some form.</p>
 <div class="product-image">
 <img src="{{asset('images/products/product-3.jpg')}}" alt="#">
 <div class="button">
-<a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to
+<a href="http://store-locator.test/details" class="btn"><i class="lni lni-cart"></i> Add to
 Cart</a>
 </div>
 </div>
 <div class="product-info">
 <span class="category">Camera</span>
 <h4 class="title">
-<a href="product-grids.html">WiFi Security Camera</a>
+<a href="http://store-locator.test/details">WiFi Security Camera</a>
 </h4>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
@@ -574,14 +573,14 @@ Cart</a>
 <div class="product-image">
 <img src="{{asset('images/products/product-8.jpg')}}" alt="#">
 <div class="button">
-<a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to
+<a href="http://store-locator.test/details" class="btn"><i class="lni lni-cart"></i> Add to
 Cart</a>
 </div>
 </div>
 <div class="product-info">
 <span class="category">Laptop</span>
 <h4 class="title">
-<a href="product-grids.html">Apple MacBook Air</a>
+<a href="http://store-locator.test/details">Apple MacBook Air</a>
 </h4>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
@@ -604,14 +603,14 @@ Cart</a>
 <div class="product-image">
 <img src="{{asset('images/products/product-6.jpg')}}" alt="#">
 <div class="button">
-<a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to
+<a href="http://store-locator.test/details" class="btn"><i class="lni lni-cart"></i> Add to
 Cart</a>
 </div>
 </div>
 <div class="product-info">
 <span class="category">Speaker</span>
 <h4 class="title">
-<a href="product-grids.html">Bluetooth Speaker</a>
+<a href="http://store-locator.test/details">Bluetooth Speaker</a>
 </h4>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
@@ -639,7 +638,7 @@ incididunt ut labore.</p>
 <span>$590.00</span>
 </div>
 <div class="button">
-<a href="product-grids.html" class="btn">Shop Now</a>
+<a href="http://store-locator.test/details" class="btn">Shop Now</a>
 </div>
 </div>
 </div>
@@ -652,7 +651,7 @@ incididunt ut labore.</p>
 <span class="sale-tag">-50%</span>
 </div>
 <div class="text">
-<h2><a href="product-grids.html">Bluetooth Headphone</a></h2>
+<h2><a href="http://store-locator.test/details">Bluetooth Headphone</a></h2>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
 <li><i class="lni lni-star-filled"></i></li>
@@ -704,11 +703,11 @@ eiusmod tempor labores.</p>
 
 <div class="single-list">
 <div class="list-image">
-<a href="product-grids.html"><img src="{{asset('images/home-product-list/01.jpg')}}" alt="#"></a>
+<a href="http://store-locator.test/details"><img src="{{asset('images/home-product-list/01.jpg')}}" alt="#"></a>
 </div>
 <div class="list-info">
 <h3>
-<a href="product-grids.html">GoPro Hero4 Silver</a>
+<a href="http://store-locator.test/details">GoPro Hero4 Silver</a>
 </h3>
 <span>$287.99</span>
 </div>
@@ -717,11 +716,11 @@ eiusmod tempor labores.</p>
 
 <div class="single-list">
 <div class="list-image">
-<a href="product-grids.html"><img src="{{asset('images/home-product-list/02.jpg')}}" alt="#"></a>
+<a href="http://store-locator.test/details"><img src="{{asset('images/home-product-list/02.jpg')}}" alt="#"></a>
 </div>
 <div class="list-info">
 <h3>
-<a href="product-grids.html">Puro Sound Labs BT2200</a>
+<a href="http://store-locator.test/details">Puro Sound Labs BT2200</a>
 </h3>
 <span>$95.00</span>
 </div>
@@ -730,11 +729,11 @@ eiusmod tempor labores.</p>
 
 <div class="single-list">
 <div class="list-image">
-<a href="product-grids.html"><img src="{{asset('images/home-product-list/03.jpg')}}" alt="#"></a>
+<a href="http://store-locator.test/details"><img src="{{asset('images/home-product-list/03.jpg')}}" alt="#"></a>
 </div>
 <div class="list-info">
 <h3>
-<a href="product-grids.html">HP OfficeJet Pro 8710</a>
+<a href="http://store-locator.test/details">HP OfficeJet Pro 8710</a>
 </h3>
 <span>$120.00</span>
 </div>
@@ -746,11 +745,11 @@ eiusmod tempor labores.</p>
 
 <div class="single-list">
 <!-- <div class="list-image">
-<a href="product-grids.html"><img src="{{asset('images/home-product-list/04.jpg')}}" alt="#"></a>
+<a href="http://store-locator.test/details"><img src="{{asset('images/home-product-list/04.jpg')}}" alt="#"></a>
 </div> -->
 <div class="list-info">
 <h3>
-<a href="product-grids.html">iPhone X 256 GB Space Gray</a>
+<a href="http://store-locator.test/details">iPhone X 256 GB Space Gray</a>
 </h3>
 <!-- <span>$1150.00</span> -->
 </div>
@@ -759,11 +758,11 @@ eiusmod tempor labores.</p>
 
 <div class="single-list">
 <!-- <div class="list-image">
-<a href="product-grids.html"><img src="{{asset('images/home-product-list/05.jpg')}}" alt="#"></a>
+<a href="http://store-locator.test/details"><img src="{{asset('images/home-product-list/05.jpg')}}" alt="#"></a>
 </div> -->
 <div class="list-info">
 <h3>
-<a href="product-grids.html">Canon EOS M50 Mirrorless Camera</a>
+<a href="http://store-locator.test/details">Canon EOS M50 Mirrorless Camera</a>
 </h3>
 <!-- <span>$950.00</span> -->
 </div>
@@ -772,11 +771,11 @@ eiusmod tempor labores.</p>
 
 <div class="single-list">
 <!-- <div class="list-image">
-<a href="product-grids.html"><img src="{{asset('images/home-product-list/06.jpg')}}" alt="#"></a>
+<a href="http://store-locator.test/details"><img src="{{asset('images/home-product-list/06.jpg')}}" alt="#"></a>
 </div> -->
 <div class="list-info">
 <h3>
-<a href="product-grids.html">Microsoft Xbox One S</a>
+<a href="http://store-locator.test/details">Microsoft Xbox One S</a>
 </h3>
 <!-- <span>$298.00</span> -->
 </div>
@@ -788,11 +787,11 @@ eiusmod tempor labores.</p>
 
 <div class="single-list">
 <!-- <div class="list-image">
-<a href="product-grids.html"><img src="{{asset('images/home-product-list/07.jpg')}}" alt="#"></a>
+<a href="http://store-locator.test/details"><img src="{{asset('images/home-product-list/07.jpg')}}" alt="#"></a>
 </div> -->
 <div class="list-info">
 <h3>
-<a href="product-grids.html">Samsung Gear 360 VR Camera</a>
+<a href="http://store-locator.test/details">Samsung Gear 360 VR Camera</a>
 </h3>
 <!-- <span>$68.00</span> -->
 </div>
@@ -801,11 +800,11 @@ eiusmod tempor labores.</p>
 
 <div class="single-list">
 <!-- <div class="list-image">
-<a href="product-grids.html"><img src="{{asset('images/home-product-list/08.jpg')}}" alt="#"></a>
+<a href="http://store-locator.test/details"><img src="{{asset('images/home-product-list/08.jpg')}}" alt="#"></a>
 </div> -->
 <div class="list-info">
 <h3>
-<a href="product-grids.html">Samsung Galaxy S9+ 64 GB</a>
+<a href="http://store-locator.test/details">Samsung Galaxy S9+ 64 GB</a>
 </h3>
 <!-- <span>$840.00</span> -->
 </div>
@@ -814,11 +813,11 @@ eiusmod tempor labores.</p>
 
 <div class="single-list">
 <!-- <div class="list-image">
-<a href="product-grids.html"><img src="{{asset('images/home-product-list/09.jpg')}}" alt="#"></a>
+<a href="http://store-locator.test/details"><img src="{{asset('images/home-product-list/09.jpg')}}" alt="#"></a>
 </div> -->
 <div class="list-info">
 <h3>
-<a href="product-grids.html">Zeus Bluetooth Headphones</a>
+<a href="http://store-locator.test/details">Zeus Bluetooth Headphones</a>
 </h3>
 <!-- <span>$28.00</span> -->
 </div>

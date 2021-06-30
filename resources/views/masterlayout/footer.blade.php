@@ -98,12 +98,12 @@ Subscribe to our Newsletter
 <div class="single-footer f-link">
 <h3>All Categories</h3>
 <ul>
-<li><a href="javascript:void(0)">Electronics and Electrician</a></li>
-<li><a href="javascript:void(0)">Automobiles and Mechanics</a></li>
-<li><a href="javascript:void(0)">Grocery</a></li>
-<li><a href="javascript:void(0)">Hardware and Plumbing</a></li>
-<li><a href="javascript:void(0)">Pharmacy</a></li>
-<li><a href="javascript:void(0)">Furniture and Carpentry</a></li>
+<li><a href="http://store-locator.test/businesses">Electronics and Electrician</a></li>
+<li><a href="http://store-locator.test/businesses">Automobiles and Mechanics</a></li>
+<li><a href="http://store-locator.test/businesses">Grocery</a></li>
+<li><a href="http://store-locator.test/businesses">Hardware and Plumbing</a></li>
+<li><a href="http://store-locator.test/businesses">Pharmacy</a></li>
+<li><a href="http://store-locator.test/businesses">Furniture and Carpentry</a></li>
 </ul>
 </div>
  

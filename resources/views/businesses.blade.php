@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js" lang="zxx">
 
-<!-- Mirrored from demo.graygrids.com/themes/shopgrids/product-grids.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 18 Jun 2021 17:17:20 GMT -->
+<!-- Mirrored from demo.graygrids.com/themes/shopgrids/http://store-locator.test/businesses by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 18 Jun 2021 17:17:20 GMT -->
 <head>
 <meta charset="utf-8" />
 <meta http-equiv="x-ua-compatible" content="ie=edge" />
@@ -48,8 +48,8 @@
 <div class="col-lg-6 col-md-6 col-12">
 <ul class="breadcrumb-nav">
 <li><a href="http://store-locator.test/index"><i class="lni lni-home"></i> Home</a></li>
-<li><a href="javascript:void(0)">Shop</a></li>
-<li>Shop Grid</li>
+<!-- <li><a href="javascript:void(0)">Shop</a></li> -->
+<li>Businesses</li>
 </ul>
 </div>
 </div>
@@ -77,36 +77,36 @@
 <h3>All Categories</h3>
 <ul class="list">
 <li>
-<a href="product-grids.html">Computers & Accessories </a><span>(1138)</span>
+<a href="http://store-locator.test/businesses">Electronics and Electrician</a><span>(1138)</span>
 </li>
 <li>
-<a href="product-grids.html">Smartphones & Tablets</a><span>(2356)</span>
+<a href="http://store-locator.test/businesses">Automobiles and Mechanics</a><span>(2356)</span>
 </li>
 <li>
-<a href="product-grids.html">TV, Video & Audio</a><span>(420)</span>
+<a href="http://store-locator.test/businesses">Grocery</a><span>(420)</span>
 </li>
 <li>
-<a href="product-grids.html">Cameras, Photo & Video</a><span>(874)</span>
+<a href="http://store-locator.test/businesses">Hardware and Plumbing</a><span>(874)</span>
 </li>
 <li>
-<a href="product-grids.html">Headphones</a><span>(1239)</span>
+<a href="http://store-locator.test/businesses">Pharmacy</a><span>(1239)</span>
 </li>
 <li>
-<a href="product-grids.html">Wearable Electronics</a><span>(340)</span>
+<a href="http://store-locator.test/businesses">Furniture and Carpentry</a><span>(340)</span>
 </li>
-<li>
-<a href="product-grids.html">Printers & Ink</a><span>(512)</span>
-</li>
+<!-- <li>
+<a href="http://store-locator.test/businesses"></a><span>(512)</span>
+</li> -->
 </ul>
 </div>
 
 
 <div class="single-widget range">
-<h3>Price Range</h3>
-<input type="range" class="form-range" name="range" step="1" min="100" max="10000" value="10" onchange="rangePrimary.value=value">
+<h3>Range</h3>
+<input type="range" class="form-range" name="range" step="1" min="1" max="100" value="1" onchange="rangePrimary.value=value">
 <div class="range-inner">
-<label>$</label>
-<input type="text" id="rangePrimary" placeholder="100" />
+<label>Km</label>
+<input type="text" id="rangePrimary" style="margin-left: 10px;" placeholder="1" />
 </div>
 </div>
 
@@ -116,25 +116,25 @@
 <div class="form-check">
  <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault1">
 <label class="form-check-label" for="flexCheckDefault1">
-$50 - $100L (208)
+₹50 - ₹100L (208)
 </label>
 </div>
 <div class="form-check">
 <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault2">
 <label class="form-check-label" for="flexCheckDefault2">
-$100L - $500 (311)
+₹100L - ₹500 (311)
 </label>
 </div>
 <div class="form-check">
 <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault3">
 <label class="form-check-label" for="flexCheckDefault3">
-$500 - $1,000 (485)
+₹500 - ₹1,000 (485)
 </label>
 </div>
 <div class="form-check">
 <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault4">
 <label class="form-check-label" for="flexCheckDefault4">
-$1,000 - $5,000 (213)
+₹1,000 - ₹5,000 (213)
 </label>
 </div>
 </div>
@@ -232,13 +232,13 @@ Panasonic (74)
 <div class="product-image">
 <img src="{{asset('images/products/product-1.jpg')}}" alt="#">
 <div class="button">
-<a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to Cart</a>
+<a href="http://store-locator.test/details" class="btn">View Details</a>
 </div>
 </div>
 <div class="product-info">
 <span class="category">Watches</span>
 <h4 class="title">
-<a href="product-grids.html">Xiaomi Mi Band 5</a>
+<a href="http://store-locator.test/businesses">Xiaomi Mi Band 5</a>
 </h4>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
@@ -248,9 +248,9 @@ Panasonic (74)
 <li><i class="lni lni-star"></i></li>
 <li><span>4.0 Review(s)</span></li>
 </ul>
-<div class="price">
-<span>$199.00</span>
-</div>
+<!-- <div class="price">
+<span>₹199.00</span>
+</div> -->
 </div>
 </div>
 
@@ -260,15 +260,15 @@ Panasonic (74)
 <div class="single-product">
 <div class="product-image">
 <img src="{{asset('images/products/product-2.jpg')}}" alt="#">
-<span class="sale-tag">-25%</span>
+<!-- <span class="sale-tag">-25%</span> -->
 <div class="button">
-<a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to Cart</a>
+<a href="http://store-locator.test/details" class="btn"> View Details</a>
 </div>
 </div>
 <div class="product-info">
 <span class="category">Speaker</span>
 <h4 class="title">
-<a href="product-grids.html">Bluetooth Speaker</a>
+<a href="http://store-locator.test/businesses">Bluetooth Speaker</a>
 </h4>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
@@ -278,10 +278,10 @@ Panasonic (74)
 <li><i class="lni lni-star-filled"></i></li>
 <li><span>5.0 Review(s)</span></li>
 </ul>
-<div class="price">
-<span>$275.00</span>
-<span class="discount-price">$300.00</span>
-</div>
+<!-- <div class="price">
+<span>₹275.00</span>
+<span class="discount-price">₹300.00</span>
+</div> -->
 </div>
 </div>
 
@@ -292,13 +292,13 @@ Panasonic (74)
 <div class="product-image">
 <img src="{{asset('images/products/product-3.jpg')}}" alt="#">
 <div class="button">
-<a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to Cart</a>
+<a href="http://store-locator.test/details" class="btn">View Details</a>
 </div>
 </div>
 <div class="product-info">
 <span class="category">Camera</span>
 <h4 class="title">
-<a href="product-grids.html">WiFi Security Camera</a>
+<a href="http://store-locator.test/businesses">WiFi Security Camera</a>
 </h4>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
@@ -308,9 +308,9 @@ Panasonic (74)
 <li><i class="lni lni-star-filled"></i></li>
 <li><span>5.0 Review(s)</span></li>
 </ul>
-<div class="price">
-<span>$399.00</span>
-</div>
+<!-- <div class="price">
+<span>₹399.00</span>
+</div> -->
 </div>
 </div>
 
@@ -320,15 +320,15 @@ Panasonic (74)
 <div class="single-product">
 <div class="product-image">
 <img src="{{asset('images/products/product-4.jpg')}}" alt="#">
-<span class="new-tag">New</span>
+<!-- <span class="new-tag">New</span> -->
 <div class="button">
-<a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to Cart</a>
+<a href="http://store-locator.test/details" class="btn">View Details</a>
 </div>
 </div>
 <div class="product-info">
 <span class="category">Phones</span>
 <h4 class="title">
-<a href="product-grids.html">iphone 6x plus</a>
+<a href="http://store-locator.test/businesses">iphone 6x plus</a>
 </h4>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
@@ -338,9 +338,9 @@ Panasonic (74)
 <li><i class="lni lni-star-filled"></i></li>
  <li><span>5.0 Review(s)</span></li>
 </ul>
-<div class="price">
-<span>$400.00</span>
-</div>
+<!-- <div class="price">
+<span>₹400.00</span>
+</div> -->
 </div>
 </div>
 
@@ -351,13 +351,13 @@ Panasonic (74)
 <div class="product-image">
 <img src="{{asset('images/products/product-5.jpg')}}" alt="#">
 <div class="button">
-<a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to Cart</a>
+<a href="http://store-locator.test/details" class="btn">View Details</a>
 </div>
 </div>
 <div class="product-info">
 <span class="category">Headphones</span>
 <h4 class="title">
-<a href="product-grids.html">Wireless Headphones</a>
+<a href="http://store-locator.test/businesses">Wireless Headphones</a>
 </h4>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
@@ -367,9 +367,9 @@ Panasonic (74)
 <li><i class="lni lni-star-filled"></i></li>
 <li><span>5.0 Review(s)</span></li>
 </ul>
-<div class="price">
-<span>$350.00</span>
-</div>
+<!-- <div class="price">
+<span>₹350.00</span>
+</div> -->
 </div>
 </div>
 
@@ -380,13 +380,13 @@ Panasonic (74)
 <div class="product-image">
 <img src="{{asset('images/products/product-6.jpg')}}" alt="#">
 <div class="button">
-<a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to Cart</a>
+<a href="http://store-locator.test/details" class="btn">View Details</a>
 </div>
 </div>
 <div class="product-info">
 <span class="category">Speaker</span>
 <h4 class="title">
-<a href="product-grids.html">Mini Bluetooth Speaker</a>
+<a href="http://store-locator.test/businesses">Mini Bluetooth Speaker</a>
 </h4>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
@@ -396,9 +396,9 @@ Panasonic (74)
 <li><i class="lni lni-star"></i></li>
 <li><span>4.0 Review(s)</span></li>
 </ul>
-<div class="price">
-<span>$70.00</span>
-</div>
+<!-- <div class="price">
+<span>₹70.00</span>
+</div> -->
 </div>
 </div>
 
@@ -408,15 +408,15 @@ Panasonic (74)
 <div class="single-product">
 <div class="product-image">
 <img src="{{asset('images/products/product-7.jpg')}}" alt="#">
-<span class="sale-tag">-50%</span>
+<!-- <span class="sale-tag">-50%</span> -->
 <div class="button">
-<a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to Cart</a>
+<a href="http://store-locator.test/details" class="btn">View Details</a>
 </div>
 </div>
 <div class="product-info">
 <span class="category">Headphones</span>
 <h4 class="title">
-<a href="product-grids.html">Wireless Headphones</a>
+<a href="http://store-locator.test/businesses">Wireless Headphones</a>
 </h4>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
@@ -426,10 +426,10 @@ Panasonic (74)
 <li><i class="lni lni-star"></i></li>
 <li><span>4.0 Review(s)</span></li>
 </ul>
-<div class="price">
-<span>$100.00</span>
-<span class="discount-price">$200.00</span>
-</div>
+<!-- <div class="price">
+<span>₹100.00</span>
+<span class="discount-price">₹200.00</span>
+</div> -->
 </div>
 </div>
 
@@ -440,13 +440,13 @@ Panasonic (74)
 <div class="product-image">
 <img src="{{asset('images/products/product-8.jpg')}}" alt="#">
 <div class="button">
-<a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to Cart</a>
+<a href="http://store-locator.test/details" class="btn">View Details</a>
 </div>
  </div>
 <div class="product-info">
 <span class="category">Laptop</span>
 <h4 class="title">
-<a href="product-grids.html">Apple MacBook Air</a>
+<a href="http://store-locator.test/businesses">Apple MacBook Air</a>
 </h4>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
@@ -456,9 +456,9 @@ Panasonic (74)
 <li><i class="lni lni-star-filled"></i></li>
 <li><span>5.0 Review(s)</span></li>
 </ul>
-<div class="price">
-<span>$899.00</span>
-</div>
+<!-- <div class="price">
+<span>₹899.00</span>
+</div> -->
 </div>
 </div>
 
@@ -468,15 +468,15 @@ Panasonic (74)
 <div class="single-product">
 <div class="product-image">
 <img src="{{asset('images/products/product-2.jpg')}}" alt="#">
-<span class="sale-tag">-25%</span>
+<!-- <span class="sale-tag">-25%</span> -->
 <div class="button">
-<a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to Cart</a>
+<a href="http://store-locator.test/details" class="btn">View Details</a>
 </div>
 </div>
 <div class="product-info">
 <span class="category">Speaker</span>
 <h4 class="title">
-<a href="product-grids.html">Bluetooth Speaker</a>
+<a href="http://store-locator.test/businesses">Bluetooth Speaker</a>
 </h4>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
@@ -486,10 +486,10 @@ Panasonic (74)
 <li><i class="lni lni-star-filled"></i></li>
 <li><span>5.0 Review(s)</span></li>
 </ul>
-<div class="price">
-<span>$275.00</span>
-<span class="discount-price">$300.00</span>
-</div>
+<!-- <div class="price">
+<span>₹275.00</span>
+<span class="discount-price">₹300.00</span>
+</div> -->
 </div>
 </div>
 
@@ -521,8 +521,7 @@ Panasonic (74)
 <div class="product-image">
 <img src="{{asset('images/products/product-1.jpg')}}" alt="#">
 <div class="button">
-<a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to
-Cart</a>
+<a href="http://store-locator.test/details" class="btn">View Details</a>
 </div>
 </div>
 </div>
@@ -530,7 +529,7 @@ Cart</a>
 <div class="product-info">
 <span class="category">Watches</span>
 <h4 class="title">
-<a href="product-grids.html">Xiaomi Mi Band 5</a>
+<a href="http://store-locator.test/businesses">Xiaomi Mi Band 5</a>
 </h4>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
@@ -540,9 +539,9 @@ Cart</a>
 <li><i class="lni lni-star"></i></li>
 <li><span>4.0 Review(s)</span></li>
 </ul>
-<div class="price">
-<span>$199.00</span>
-</div>
+<!-- <div class="price">
+<span>₹199.00</span>
+</div> -->
 </div>
 </div>
 </div>
@@ -556,10 +555,9 @@ Cart</a>
 <div class="col-lg-4 col-md-4 col-12">
 <div class="product-image">
 <img src="{{asset('images/products/product-2.jpg')}}" alt="#">
-<span class="sale-tag">-25%</span>
+<!-- <span class="sale-tag">-25%</span> -->
 <div class="button">
-<a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to
-Cart</a>
+<a href="http://store-locator.test/details" class="btn">View Details</a>
 </div>
 </div>
 </div>
@@ -567,7 +565,7 @@ Cart</a>
 <div class="product-info">
 <span class="category">Speaker</span>
 <h4 class="title">
-<a href="product-grids.html">Big Power Sound Speaker</a>
+<a href="http://store-locator.test/businesses">Big Power Sound Speaker</a>
 </h4>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
@@ -577,10 +575,10 @@ Cart</a>
 <li><i class="lni lni-star-filled"></i></li>
 <li><span>5.0 Review(s)</span></li>
 </ul>
-<div class="price">
-<span>$275.00</span>
-<span class="discount-price">$300.00</span>
-</div>
+<!-- <div class="price">
+<span>₹275.00</span>
+<span class="discount-price">₹300.00</span>
+</div> -->
 </div>
 </div>
 </div>
@@ -595,8 +593,7 @@ Cart</a>
 <div class="product-image">
 <img src="{{asset('images/products/product-3.jpg')}}" alt="#">
 <div class="button">
-<a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to
-Cart</a>
+<a href="http://store-locator.test/details" class="btn">View Details</a>
  </div>
 </div>
 </div>
@@ -604,7 +601,7 @@ Cart</a>
 <div class="product-info">
 <span class="category">Camera</span>
 <h4 class="title">
-<a href="product-grids.html">WiFi Security Camera</a>
+<a href="http://store-locator.test/businesses">WiFi Security Camera</a>
 </h4>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
@@ -614,9 +611,9 @@ Cart</a>
 <li><i class="lni lni-star-filled"></i></li>
 <li><span>5.0 Review(s)</span></li>
 </ul>
-<div class="price">
-<span>$399.00</span>
-</div>
+<!-- <div class="price">
+<span>₹399.00</span>
+</div> -->
 </div>
 </div>
 </div>
@@ -630,10 +627,9 @@ Cart</a>
 <div class="col-lg-4 col-md-4 col-12">
 <div class="product-image">
 <img src="{{asset('images/products/product-4.jpg')}}" alt="#">
-<span class="new-tag">New</span>
+<!-- <span class="new-tag">New</span> -->
 <div class="button">
-<a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to
-Cart</a>
+<a href="http://store-locator.test/details" class="btn">View Details</a>
 </div>
 </div>
 </div>
@@ -641,7 +637,7 @@ Cart</a>
 <div class="product-info">
 <span class="category">Phones</span>
 <h4 class="title">
-<a href="product-grids.html">iphone 6x plus</a>
+<a href="http://store-locator.test/businesses">iphone 6x plus</a>
 </h4>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
@@ -651,9 +647,9 @@ Cart</a>
 <li><i class="lni lni-star-filled"></i></li>
 <li><span>5.0 Review(s)</span></li>
 </ul>
-<div class="price">
-<span>$400.00</span>
-</div>
+<!-- <div class="price">
+<span>₹400.00</span>
+</div> -->
 </div>
 </div>
 </div>
@@ -667,10 +663,9 @@ Cart</a>
 <div class="col-lg-4 col-md-4 col-12">
 <div class="product-image">
 <img src="{{asset('images/products/product-7.jpg')}}" alt="#">
-<span class="sale-tag">-50%</span>
+<!-- <span class="sale-tag">-50%</span> -->
 <div class="button">
-<a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to
-Cart</a>
+<a href="http://store-locator.test/details" class="btn">View Details</a>
 </div>
 </div>
 </div>
@@ -678,7 +673,7 @@ Cart</a>
 <div class="product-info">
 <span class="category">Headphones</span>
 <h4 class="title">
-<a href="product-grids.html">PX7 Wireless Headphones</a>
+<a href="http://store-locator.test/businesses">PX7 Wireless Headphones</a>
 </h4>
 <ul class="review">
 <li><i class="lni lni-star-filled"></i></li>
@@ -688,10 +683,10 @@ Cart</a>
 <li><i class="lni lni-star"></i></li>
 <li><span>4.0 Review(s)</span></li>
 </ul>
-<div class="price">
-<span>$100.00</span>
-<span class="discount-price">$200.00</span>
-</div>
+<!-- <div class="price">
+<span>₹100.00</span>
+<span class="discount-price">₹200.00</span>
+</div> -->
 </div>
 </div>
 </div>
@@ -735,5 +730,5 @@ Cart</a>
 <script src="{{asset('js/main.js')}}"></script>
 </body>
 
-<!-- Mirrored from demo.graygrids.com/themes/shopgrids/product-grids.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 18 Jun 2021 17:17:20 GMT -->
+<!-- Mirrored from demo.graygrids.com/themes/shopgrids/http://store-locator.test/businesses by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 18 Jun 2021 17:17:20 GMT -->
 </html>

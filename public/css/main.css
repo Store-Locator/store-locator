@@ -2803,7 +2803,7 @@ ol {
     margin: 0;
 }
 .featured-categories .single-category ul li a {
-    color: #666;
+    color: white;
 }
 .featured-categories .single-category ul li a:hover {
     color: #0167f3;
