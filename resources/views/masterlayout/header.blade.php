@@ -7,9 +7,9 @@
                 <div class="col-lg-8 col-md-8 col-12">
                     <div class="top-middle">
                         <ul class="useful-links">
-                            <li><a href="http://store-locator.test/index">Home</a></li>
-                            <li><a href="http://store-locator.test/about-us">About Us</a></li>
-                            <li><a href="http://store-locator.test/contact">Contact Us</a></li>
+                            <li><a href="{{ route('index') }}">Home</a></li>
+                            <li><a href="{{ route('aboutus')}}">About Us</a></li>
+                            <li><a href="{{ route('contact')}}">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>
@@ -41,7 +41,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-4 col-md-3 col-7">
 
-                    <a class="navbar-brand" href="http://store-locator.test/index">
+                    <a class="navbar-brand" href="{{ route('index') }}">
                         <img src="{{asset('images/logo/logo2.png')}}" alt="Logo">
                     </a>
 

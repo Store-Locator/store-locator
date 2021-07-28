@@ -5,7 +5,7 @@
 <head>
 <meta charset="utf-8" />
 <meta http-equiv="x-ua-compatible" content="ie=edge" />
-<title>Login - ShopGrids Bootstrap 5 eCommerce HTML Template.</title>
+<title>Login - Search Bizz</title>
 <meta name="description" content="" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.svg" />
@@ -61,10 +61,36 @@
 <div class="container">
 <div class="row">
 <div class="col-lg-6 offset-lg-3 col-md-10 offset-md-1 col-12">
-<form class="card login-form" method="post">
+
+<div>
+<div class="form-group">
+<input class="cols-lg-5" type="radio" id="business_radio" name="radio1" value="Business" required checked> Business </input>&nbsp;
+<input class="cols-lg-5" type="radio" id="customer_radio" name="radio1" value="Customer" required> Customer </input>
+<!-- <button>Business</button>
+<button>customer</button> -->
+</div>
+</div>
+
+<!-- business form -->
+<form class="card login-form" id="business" action="{{ route('check2') }}" method="post">
+
+@if(Session::get('success'))
+<div class="alert alert-success">
+{{Session::get('success')}}
+</div>
+@endif
+
+@if(Session::get('fail'))
+<div class="alert alert-danger">
+{{Session::get('fail')}}
+</div>
+@endif
+
+
+@csrf
 <div class="card-body">
 <div class="title">
-<h3>Login Now</h3>
+<h3>Login as Business</h3>
 <p>You can login using your social media account or email address.</p>
 </div>
 <div class="social-login">
@@ -82,11 +108,73 @@ login</a></div>
 </div>
 <div class="form-group input-group">
 <label for="reg-fn">Email</label>
-<input class="form-control" type="email" id="reg-email" required>
+<input class="form-control" type="text" id="reg-email" name="bizz_email" value="{{ old('bizz_email') }}">
+<span class="text-danger">@error('bizz_email'){{ $message }} @enderror</span>
 </div>
 <div class="form-group input-group">
 <label for="reg-fn">Password</label>
-<input class="form-control" type="password" id="reg-pass" required>
+<input class="form-control" type="password" id="reg-pass" name="pass" >
+<span class="text-danger">@error('pass'){{ $message }} @enderror</span>
+</div>
+<div class="d-flex flex-wrap justify-content-between bottom-content">
+<div class="form-check">
+<input type="checkbox" class="form-check-input width-auto" id="exampleCheck1">
+<label class="form-check-label">Remember me</label>
+</div>
+<a class="lost-pass" href="account-password-recovery.html">Forgot password?</a>
+</div>
+<div class="button">
+<button class="btn" type="submit" >Login</button>
+</div>
+<p class="outer-link">Don't have an account? <a href="http://store-locator.test/register#">Register here </a>
+</p>
+</div>
+</form>
+<!-- business form end -->
+<!-- customer form -->
+<form class="card login-form" id="customer" action="{{ route('check') }}" method="post">
+
+@if(Session::get('success'))
+<div class="alert alert-success">
+{{Session::get('success')}}
+</div>
+@endif
+
+@if(Session::get('fail'))
+<div class="alert alert-danger">
+{{Session::get('fail')}}
+</div>
+@endif
+
+
+@csrf
+<div class="card-body">
+<div class="title">
+<h3>Login as Customer</h3>
+<p>You can login using your social media account or email address.</p>
+</div>
+<div class="social-login">
+<div class="row">
+<div class="col-lg-4 col-md-4 col-12"><a class="btn facebook-btn" href="javascript:void(0)"><i class="lni lni-facebook-filled"></i> Facebook
+login</a></div>
+<div class="col-lg-4 col-md-4 col-12"><a class="btn twitter-btn" href="javascript:void(0)"><i class="lni lni-twitter-original"></i> Twitter
+login</a></div>
+<div class="col-lg-4 col-md-4 col-12"><a class="btn google-btn" href="javascript:void(0)"><i class="lni lni-google"></i> Google login</a>
+</div>
+</div>
+</div>
+<div class="alt-option">
+<span>Or</span>
+</div>
+<div class="form-group input-group">
+<label for="reg-fn">Email</label>
+<input class="form-control" type="text" id="reg-email" name="email" value="{{ old('email') }}">
+<span class="text-danger">@error('email'){{ $message }} @enderror</span>
+</div>
+<div class="form-group input-group">
+<label for="reg-fn">Password</label>
+<input class="form-control" type="password" id="reg-pass" name="password" >
+<span class="text-danger">@error('password'){{ $message }} @enderror</span>
 </div>
 <div class="d-flex flex-wrap justify-content-between bottom-content">
 <div class="form-check">
@@ -118,6 +206,30 @@ login</a></div>
 <script src="{{asset('js/tiny-slider.js')}}"></script>
 <script src="{{asset('js/glightbox.min.js')}}"></script>
 <script src="{{asset('js/main.js')}}"></script>
+
+
+<script 
+src="https://code.jquery.com/jquery-3.6.0.min.js" 
+integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" 
+crossorigin="anonymous"></script>
+
+<script>
+      $(document).ready(function(){
+          $('#customer').hide();
+        //   $('#business').hide();
+          $('#business_radio').on('click',function(){
+            $('#business').show();
+            $('#customer').hide();
+          });
+        $('#customer_radio').on('click', function(){
+            $('#business').hide();
+            $('#customer').show();
+        });
+    });  
+</script>
+</body>
+</html>
+
 </body>
 
 <!-- Mirrored from demo.graygrids.com/themes/shopgrids/login.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 18 Jun 2021 17:17:06 GMT -->

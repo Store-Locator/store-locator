@@ -84,8 +84,8 @@ Subscribe to our Newsletter
 <div class="single-footer f-link">
 <h3>Information</h3>
 <ul>
-<li><a href="http://store-locator.test/about-us">About Us</a></li>
-<li><a href="http://store-locator.test/contact">Contact Us</a></li>
+<li><a href="{{ route('aboutus') }}">About Us</a></li>
+<li><a href="{{ route('contact') }}">Contact Us</a></li>
 <!-- <li><a href="javascript:void(0)">Downloads</a></li>
 <li><a href="javascript:void(0)">Sitemap</a></li>
 <li><a href="javascript:void(0)">FAQs Page</a></li> -->
