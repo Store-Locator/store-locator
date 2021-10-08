@@ -66,21 +66,21 @@
 <div class="product-images">
 <main id="gallery">
 <div class="main-img">
-<img src="{{asset('images/product-details/01.jpg')}}" id="current" alt="#">
+<img src="{{asset('images/product-details/001.jpg')}}" id="current" alt="#">
 </div>
 <div class="images">
-<img src="{{asset('images/product-details/01.jpg')}}" class="img" alt="#">
-<img src="{{asset('images/product-details/02.jpg')}}" class="img" alt="#">
-<img src="{{asset('images/product-details/03.jpg')}}" class="img" alt="#">
-<img src="{{asset('images/product-details/04.jpg')}}" class="img" alt="#">
-<img src="{{asset('images/product-details/05.jpg')}}" class="img" alt="#">
+<img src="{{asset('images/product-details/001.jpg')}}" class="img" alt="#">
+<img src="{{asset('images/product-details/002.jpg')}}" class="img" alt="#">
+<img src="{{asset('images/product-details/003.jpg')}}" class="img" alt="#">
+<img src="{{asset('images/product-details/004.jpg')}}" class="img" alt="#">
+<img src="{{asset('images/product-details/005.jpg')}}" class="img" alt="#">
 </div>
 </main>
 </div>
 </div>
 <div class="col-lg-6 col-md-12 col-12">
 <div class="product-info">
-<h2 class="title">Drone</h2>
+<h2 class="title">Jagdamba Optics</h2>
 <!--<p class="category"><i class="lni lni-tag"></i> Drones:<a href="javascript:void(0)">Action
 cameras</a></p>-->
 <!--<h3 class="price">$850<span>$945</span></h3>-->
@@ -159,11 +159,11 @@ input type="checkbox" id="checkbox-4">
 <div class="col-lg-6 col-12">
 <div class="info-body custom-responsive-margin">
 <h4>Address:</h4>
-<p>A-702,Soham Sanidhya,Ramol Ring Road</p>
+<p>Shop No. - 302 ,Soham Sanidhya Flats,Ramol Ring Road,Nr. Adani Circle</p>
 
 
 <h4>Email:</h4>
-<p>hgsag@gmail.com</p>
+<p>jagdamba452@gmail.com</p>
 
 
 <h4>Contact No.:</h4>
